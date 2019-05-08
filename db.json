@@ -1,0 +1,5014 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Bummer (Bumer)",
+            "body": "Toxic effect of other specified noxious substances eaten as food, intentional self-harm"
+        },
+        {
+            "id": 2,
+            "title": "Battlestar Galactica",
+            "body": "Other complications of foreign body accidentally left in body following endoscopic examination, initial encounter"
+        },
+        {
+            "id": 3,
+            "title": "Bad Words",
+            "body": "Other mechanical complication of other internal orthopedic devices, implants and grafts, sequela"
+        },
+        {
+            "id": 4,
+            "title": "The Oblong Box",
+            "body": "Open bite of abdominal wall, left upper quadrant with penetration into peritoneal cavity, sequela"
+        },
+        {
+            "id": 5,
+            "title": "My Life So Far",
+            "body": "Military operations involving incendiary bullet, military personnel"
+        },
+        {
+            "id": 6,
+            "title": "Possession",
+            "body": "Unspecified injury of lung, unspecified, initial encounter"
+        },
+        {
+            "id": 7,
+            "title": "Chouchou",
+            "body": "Person on outside of car injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+        },
+        {
+            "id": 8,
+            "title": "Bronson",
+            "body": "Unspecified fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with malunion"
+        },
+        {
+            "id": 9,
+            "title": "Beer for My Horses",
+            "body": "Enteropathic arthropathies, right wrist"
+        },
+        {
+            "id": 10,
+            "title": "Who Is Harry Nilsson (And Why Is Everybody Talkin' About Him?)",
+            "body": "Pedal cyclist (driver) (passenger) injured in other specified transport accidents"
+        },
+        {
+            "id": 11,
+            "title": "Pink Panther, The",
+            "body": "Acromegaly and pituitary gigantism"
+        },
+        {
+            "id": 12,
+            "title": "Fly, The",
+            "body": "Major laceration of greater saphenous vein at hip and thigh level"
+        },
+        {
+            "id": 13,
+            "title": "Amazing Journey: The Story of The Who",
+            "body": "Other inflammatory and immune myopathies, not elsewhere classified"
+        },
+        {
+            "id": 14,
+            "title": "Ferryman, The",
+            "body": "Pathological fracture in neoplastic disease, left humerus, sequela"
+        },
+        {
+            "id": 15,
+            "title": "Dedication",
+            "body": "Crushing injury of lower leg"
+        },
+        {
+            "id": 16,
+            "title": "Phantasm",
+            "body": "Osteomyelitis of right orbit"
+        },
+        {
+            "id": 17,
+            "title": "Delicatessen",
+            "body": "Unspecified sprain of unspecified lesser toe(s), subsequent encounter"
+        },
+        {
+            "id": 18,
+            "title": "Hallåhallå",
+            "body": "Folliculitis ulerythematosa reticulata"
+        },
+        {
+            "id": 19,
+            "title": "Faces of Death: Fact or Fiction?",
+            "body": "Other intervertebral disc disorders, lumbar region"
+        },
+        {
+            "id": 20,
+            "title": "Daniel Deronda",
+            "body": "Other secondary gout, unspecified site"
+        },
+        {
+            "id": 21,
+            "title": "Orderly or Disorderly (Be Tartib ya Bedoun-e Tartib)",
+            "body": "Epilepsy, unspecified, intractable, with status epilepticus"
+        },
+        {
+            "id": 22,
+            "title": "Big Lift, The",
+            "body": "Poisoning by hemostatic drug, undetermined, subsequent encounter"
+        },
+        {
+            "id": 23,
+            "title": "Screamers: The Hunting",
+            "body": "Unspecified physeal fracture of lower end of radius, unspecified arm, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 24,
+            "title": "Oversimplification of Her Beauty, An",
+            "body": "Stress fracture, unspecified finger(s), subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 25,
+            "title": "Dead Poets Society",
+            "body": "Anomalous pulmonary venous connection, unspecified"
+        },
+        {
+            "id": 26,
+            "title": "Day of Wrath (Vredens dag)",
+            "body": "Burn of second degree of chest wall, initial encounter"
+        },
+        {
+            "id": 27,
+            "title": "Regular Guys (Echte Kerle)",
+            "body": "Pain in right leg"
+        },
+        {
+            "id": 28,
+            "title": "Dot and the Whale",
+            "body": "Posterior displaced fracture of sternal end of right clavicle, sequela"
+        },
+        {
+            "id": 29,
+            "title": "Good Guy, The",
+            "body": "Fall on board other unpowered watercraft, initial encounter"
+        },
+        {
+            "id": 30,
+            "title": "Brewster's Millions",
+            "body": "Passenger in heavy transport vehicle injured in collision with other nonmotor vehicle in traffic accident, initial encounter"
+        },
+        {
+            "id": 31,
+            "title": "Cookers",
+            "body": "Chronic instability of knee"
+        },
+        {
+            "id": 32,
+            "title": "Capone",
+            "body": "Poisoning by cannabis (derivatives), assault, subsequent encounter"
+        },
+        {
+            "id": 33,
+            "title": "Aliens",
+            "body": "Other forms of leptospirosis"
+        },
+        {
+            "id": 34,
+            "title": "Home",
+            "body": "Machinery accident on board merchant ship, initial encounter"
+        },
+        {
+            "id": 35,
+            "title": "Bone Collector, The",
+            "body": "Displaced pilon fracture of unspecified tibia, subsequent encounter for open fracture type I or II with malunion"
+        },
+        {
+            "id": 36,
+            "title": "Map of the World, A",
+            "body": "Neoplasm of unspecified behavior of kidney"
+        },
+        {
+            "id": 37,
+            "title": "MR 73 (a.k.a. The Last Deadly Mission)",
+            "body": "Laceration of gallbladder, initial encounter"
+        },
+        {
+            "id": 38,
+            "title": "Big Trouble",
+            "body": "Pedestrian on skateboard injured in collision with other nonmotor vehicle in traffic accident"
+        },
+        {
+            "id": 39,
+            "title": "Strayed (égarés, Les)",
+            "body": "Laceration without foreign body of left lesser toe(s) without damage to nail, subsequent encounter"
+        },
+        {
+            "id": 40,
+            "title": "Day, The",
+            "body": "Unspecified fracture of left toe(s), sequela"
+        },
+        {
+            "id": 41,
+            "title": "Saving God",
+            "body": "Laceration of unspecified blood vessel at abdomen, lower back and pelvis level, subsequent encounter"
+        },
+        {
+            "id": 42,
+            "title": "Only the Young",
+            "body": "Displaced comminuted fracture of shaft of right fibula"
+        },
+        {
+            "id": 43,
+            "title": "Arthur Christmas",
+            "body": "Other disorders of breast associated with pregnancy and the puerperium"
+        },
+        {
+            "id": 44,
+            "title": "Meet the Robinsons",
+            "body": "Crushing injury of right index finger, sequela"
+        },
+        {
+            "id": 45,
+            "title": "Trick",
+            "body": "Subluxation of T10/T11 thoracic vertebra, subsequent encounter"
+        },
+        {
+            "id": 46,
+            "title": "Winter's Bone",
+            "body": "Obstructed labor due to abnormality of maternal pelvic organs"
+        },
+        {
+            "id": 47,
+            "title": "Prancer",
+            "body": "Displaced segmental fracture of shaft of humerus, left arm, initial encounter for open fracture"
+        },
+        {
+            "id": 48,
+            "title": "Our Relations",
+            "body": "Periprosthetic fracture around internal prosthetic left shoulder joint, initial encounter"
+        },
+        {
+            "id": 49,
+            "title": "Liquid Sky",
+            "body": "Complete lesion of unspecified level of lumbar spinal cord, initial encounter"
+        },
+        {
+            "id": 50,
+            "title": "Cold Prey III (Fritt Vilt III)",
+            "body": "Blister (nonthermal) of right back wall of thorax, subsequent encounter"
+        },
+        {
+            "id": 51,
+            "title": "Point Blank (À bout portant)",
+            "body": "Periprosthetic osteolysis of internal prosthetic right knee joint, subsequent encounter"
+        },
+        {
+            "id": 52,
+            "title": "Carne",
+            "body": "Other injury of muscle(s) and tendon(s) of the rotator cuff of right shoulder, sequela"
+        },
+        {
+            "id": 53,
+            "title": "Bang",
+            "body": "Nondisplaced intertrochanteric fracture of left femur, subsequent encounter for closed fracture with delayed healing"
+        },
+        {
+            "id": 54,
+            "title": "Deciduous Tree (Tree Without Leaves) (Rakuyôju)",
+            "body": "Tuberculosis of spleen"
+        },
+        {
+            "id": 55,
+            "title": "Fierce People",
+            "body": "Cocaine dependence, in remission"
+        },
+        {
+            "id": 56,
+            "title": "Kolka Cool",
+            "body": "Auditory recruitment"
+        },
+        {
+            "id": 57,
+            "title": "Navigator: A Mediaeval Odyssey, The",
+            "body": "Bather struck by nonpowered watercraft"
+        },
+        {
+            "id": 58,
+            "title": "My Man (Mon homme)",
+            "body": "Unequal limb length (acquired), humerus"
+        },
+        {
+            "id": 59,
+            "title": "Stalag Luft",
+            "body": "Other injury of pleura, sequela"
+        },
+        {
+            "id": 60,
+            "title": "Many Rivers to Cross",
+            "body": "Conjunctival pigmentations, left eye"
+        },
+        {
+            "id": 61,
+            "title": "Hellgate",
+            "body": "Unspecified superficial injury of right knee, sequela"
+        },
+        {
+            "id": 62,
+            "title": "Burn",
+            "body": "Partial traumatic metacarpophalangeal amputation of left index finger, initial encounter"
+        },
+        {
+            "id": 63,
+            "title": "Cinderella III: A Twist in Time",
+            "body": "Displaced fracture of lesser trochanter of right femur, sequela"
+        },
+        {
+            "id": 64,
+            "title": "Venus Wars (Venus Senki)",
+            "body": "Other peripheral vertigo, unspecified ear"
+        },
+        {
+            "id": 65,
+            "title": "Fiddler on the Roof",
+            "body": "Poisoning by propionic acid derivatives, intentional self-harm"
+        },
+        {
+            "id": 66,
+            "title": "To the Wonder",
+            "body": "Passenger in three-wheeled motor vehicle injured in collision with pedal cycle in traffic accident, initial encounter"
+        },
+        {
+            "id": 67,
+            "title": "Overcoat, The (Il cappotto)",
+            "body": "Toxic effect of fusel oil, assault, initial encounter"
+        },
+        {
+            "id": 68,
+            "title": "Taking of Pelham 1 2 3, The",
+            "body": "Psychophysiologic insomnia"
+        },
+        {
+            "id": 69,
+            "title": "Like Water for Chocolate (Como agua para chocolate)",
+            "body": "Inferior dislocation of left humerus, sequela"
+        },
+        {
+            "id": 70,
+            "title": "Grand Dukes, The (Les grands ducs)",
+            "body": "War operations involving incendiary bullet, civilian"
+        },
+        {
+            "id": 71,
+            "title": "Alexandra (Aleksandra)",
+            "body": "Superficial foreign body of left wrist, sequela"
+        },
+        {
+            "id": 72,
+            "title": "Jazz Singer, The",
+            "body": "Stress fracture, unspecified tibia and fibula, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 73,
+            "title": "Fairly Odd Movie: Grow Up, Timmy Turner!, A",
+            "body": "Chronic gingivitis, non-plaque induced"
+        },
+        {
+            "id": 74,
+            "title": "Dream Home (Wai dor lei ah yut ho)",
+            "body": "Transient visual loss, left eye"
+        },
+        {
+            "id": 75,
+            "title": "Children, The",
+            "body": "Ciguatera fish poisoning, accidental (unintentional)"
+        },
+        {
+            "id": 76,
+            "title": "South Central",
+            "body": "Other fracture of first metacarpal bone, left hand, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 77,
+            "title": "Romeo Must Die",
+            "body": "Frostbite with tissue necrosis of right arm, initial encounter"
+        },
+        {
+            "id": 78,
+            "title": "What Did the Lady Forget? (Shukujo wa nani o wasureta ka) ",
+            "body": "Open bite of right lesser toe(s) with damage to nail, initial encounter"
+        },
+        {
+            "id": 79,
+            "title": "Fun and Fancy Free",
+            "body": "Adverse effect of other antiprotozoal drugs, subsequent encounter"
+        },
+        {
+            "id": 80,
+            "title": "Winning Streak",
+            "body": "Fracture of other parts of pelvis, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 81,
+            "title": "Cleopatra",
+            "body": "Poisoning by other antacids and anti-gastric-secretion drugs, undetermined, initial encounter"
+        },
+        {
+            "id": 82,
+            "title": "Prize of Peril, The (Prix du danger, Le)",
+            "body": "Unspecified fracture of upper end of right radius, subsequent encounter for open fracture type I or II with delayed healing"
+        },
+        {
+            "id": 83,
+            "title": "Mad Max Beyond Thunderdome",
+            "body": "Displaced comminuted fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 84,
+            "title": "Desperate",
+            "body": "Corrosion of first degree of unspecified knee, initial encounter"
+        },
+        {
+            "id": 85,
+            "title": "Last Mogul, The",
+            "body": "Multiple fractures of ribs, right side, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 86,
+            "title": "Red Balloon, The (Ballon rouge, Le)",
+            "body": "Displaced transverse fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with routine healing"
+        },
+        {
+            "id": 87,
+            "title": "Kobe Doin' Work",
+            "body": "Other fracture of left ilium, initial encounter for closed fracture"
+        },
+        {
+            "id": 88,
+            "title": "Scream 3",
+            "body": "Laceration of right renal vein, initial encounter"
+        },
+        {
+            "id": 89,
+            "title": "Merry Jail, The (Das fidele Gefängnis)",
+            "body": "Injury of median nerve at upper arm level, right arm, subsequent encounter"
+        },
+        {
+            "id": 90,
+            "title": "Pauline at the Beach (Pauline à la Plage)",
+            "body": "Fracture of shaft of tibia"
+        },
+        {
+            "id": 91,
+            "title": "Winter Solstice",
+            "body": "Corrosion of second degree of left ear [any part, except ear drum], subsequent encounter"
+        },
+        {
+            "id": 92,
+            "title": "Rebirth of Mothra",
+            "body": "Person boarding or alighting a heavy transport vehicle injured in collision with pedal cycle while boarding or alighting, initial encounter"
+        },
+        {
+            "id": 93,
+            "title": "Club, The",
+            "body": "Toxic effect of other ingested (parts of) plant(s), accidental (unintentional)"
+        },
+        {
+            "id": 94,
+            "title": "Coraline",
+            "body": "Unspecified nephritic syndrome with unspecified morphologic changes"
+        },
+        {
+            "id": 95,
+            "title": "Dam Busters, The",
+            "body": "Complete loss of teeth due to trauma, unspecified class"
+        },
+        {
+            "id": 96,
+            "title": "Divo, Il",
+            "body": "Oligohydramnios, first trimester, fetus 5"
+        },
+        {
+            "id": 97,
+            "title": "Dark Side of the Sun, The",
+            "body": "Tonic pupil, left eye"
+        },
+        {
+            "id": 98,
+            "title": "Contender, The",
+            "body": "Laceration of popliteal vein"
+        },
+        {
+            "id": 99,
+            "title": "Shark in Venice",
+            "body": "Person boarding or alighting a pick-up truck or van injured in collision with pedal cycle, sequela"
+        },
+        {
+            "id": 100,
+            "title": "Napoleon and Samantha",
+            "body": "Cocaine use, unspecified with intoxication with perceptual disturbance"
+        },
+        {
+            "id": 101,
+            "title": "Liar, The (Valehtelija)",
+            "body": "Accidental striking against or bumped into by another person, subsequent encounter"
+        },
+        {
+            "id": 102,
+            "title": "Harmonists, The",
+            "body": "Partial traumatic transphalangeal amputation of left middle finger"
+        },
+        {
+            "id": 103,
+            "title": "Wrong Man, The",
+            "body": "Unspecified injury of left quadriceps muscle, fascia and tendon"
+        },
+        {
+            "id": 104,
+            "title": "Blood on Satan's Claw (a.k.a. Satan's Skin)",
+            "body": "Displaced oblique fracture of shaft of right femur, subsequent encounter for open fracture type I or II with routine healing"
+        },
+        {
+            "id": 105,
+            "title": "Silent Trigger",
+            "body": "Complications of reattached (part of) unspecified upper extremity"
+        },
+        {
+            "id": 106,
+            "title": "Blood from the Mummy's Tomb",
+            "body": "Other intraarticular fracture of lower end of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+        },
+        {
+            "id": 107,
+            "title": "Kull the Conqueror",
+            "body": "Idiopathic acute pancreatitis"
+        },
+        {
+            "id": 108,
+            "title": "I'm Reed Fish",
+            "body": "Subluxation of T10/T11 thoracic vertebra"
+        },
+        {
+            "id": 109,
+            "title": "Where's Poppa?",
+            "body": "Fatigue fracture of vertebra, occipito-atlanto-axial region, initial encounter for fracture"
+        },
+        {
+            "id": 110,
+            "title": "Who Is Killing the Great Chefs of Europe?",
+            "body": "Puncture wound without foreign body of right thumb without damage to nail"
+        },
+        {
+            "id": 111,
+            "title": "Apprenticeship of Duddy Kravitz, The",
+            "body": "Unspecified physeal fracture of upper end of radius, right arm, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 112,
+            "title": "A Walk in the Old City of Warsaw",
+            "body": "Calculus of gallbladder with acute and chronic cholecystitis with obstruction"
+        },
+        {
+            "id": 113,
+            "title": "Simpatico",
+            "body": "Other osteoporosis with current pathological fracture, unspecified shoulder, sequela"
+        },
+        {
+            "id": 114,
+            "title": "Cure for Love, A (Lekarstwo na milosc)",
+            "body": "Other congenital malformations of anterior segment of eye"
+        },
+        {
+            "id": 115,
+            "title": "Housesitter",
+            "body": "Other specified disorders of eyelid"
+        },
+        {
+            "id": 116,
+            "title": "They Call Me Mister Tibbs!",
+            "body": "Puncture wound without foreign body, left lower leg, initial encounter"
+        },
+        {
+            "id": 117,
+            "title": "Roxanne",
+            "body": "Poisoning by predominantly beta-adrenoreceptor agonists, undetermined, sequela"
+        },
+        {
+            "id": 118,
+            "title": "Girl, Positive",
+            "body": "Unspecified superficial injury of right lesser toe(s), sequela"
+        },
+        {
+            "id": 119,
+            "title": "Mother of Tears: The Third Mother (Terza madre, La)",
+            "body": "Nodular sclerosis Hodgkin lymphoma, spleen"
+        },
+        {
+            "id": 120,
+            "title": "Woman of Antwerp",
+            "body": "Acute embolism and thrombosis of superficial veins of left upper extremity"
+        },
+        {
+            "id": 121,
+            "title": "The Possession of Michael King",
+            "body": "Passenger on bus injured in collision with pedestrian or animal in nontraffic accident, initial encounter"
+        },
+        {
+            "id": 122,
+            "title": "Living with Wolves",
+            "body": "Preterm labor second trimester with preterm delivery third trimester, fetus 5"
+        },
+        {
+            "id": 123,
+            "title": "Mon Paradis - Der Winterpalast",
+            "body": "Psoriatic juvenile arthropathy"
+        },
+        {
+            "id": 124,
+            "title": "Coast of Death",
+            "body": "Contusion of left hip"
+        },
+        {
+            "id": 125,
+            "title": "Man of La Mancha",
+            "body": "Nondisplaced fracture of intermediate cuneiform of unspecified foot, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 126,
+            "title": "This Land Is Mine",
+            "body": "Reversible pulpitis"
+        },
+        {
+            "id": 127,
+            "title": "Ordeal, The (Calvaire)",
+            "body": "Nondisplaced comminuted fracture of shaft of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+        },
+        {
+            "id": 128,
+            "title": "Last Play at Shea, The",
+            "body": "Corrosion of unspecified degree of right toe(s) (nail), subsequent encounter"
+        },
+        {
+            "id": 129,
+            "title": "Slither",
+            "body": "Open bite of abdominal wall, right upper quadrant without penetration into peritoneal cavity, subsequent encounter"
+        },
+        {
+            "id": 130,
+            "title": "Division III: Football's Finest",
+            "body": "Conjunctival cysts, unspecified eye"
+        },
+        {
+            "id": 131,
+            "title": "Day of Wrath (Vredens dag)",
+            "body": "Accidental discharge of unspecified larger firearm, subsequent encounter"
+        },
+        {
+            "id": 132,
+            "title": "Canyon Passage",
+            "body": "Displaced fracture of epiphysis (separation) (upper) of unspecified femur, subsequent encounter for open fracture type I or II with routine healing"
+        },
+        {
+            "id": 133,
+            "title": "Robin-B-Hood (Bo bui gai wak)",
+            "body": "Laceration without foreign body of right back wall of thorax without penetration into thoracic cavity, initial encounter"
+        },
+        {
+            "id": 134,
+            "title": "Roseland",
+            "body": "Laceration with foreign body of lip, initial encounter"
+        },
+        {
+            "id": 135,
+            "title": "Under the Domim Tree (Etz Hadomim Tafus)",
+            "body": "Chondromalacia, unspecified wrist"
+        },
+        {
+            "id": 136,
+            "title": "Brotherhood of Death",
+            "body": "Unspecified superficial injuries of breast"
+        },
+        {
+            "id": 137,
+            "title": "Monsignor",
+            "body": "Corrosion of second degree of right wrist, subsequent encounter"
+        },
+        {
+            "id": 138,
+            "title": "Somewhere",
+            "body": "Paraneoplastic pemphigus"
+        },
+        {
+            "id": 139,
+            "title": "Prisoner of Shark Island, The",
+            "body": "Other physeal fracture of lower end of radius, unspecified arm, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 140,
+            "title": "Ninja Scroll (Jûbei ninpûchô)",
+            "body": "Laceration of intrinsic muscle, fascia and tendon of right ring finger at wrist and hand level, initial encounter"
+        },
+        {
+            "id": 141,
+            "title": "Eye for an Eye",
+            "body": "Benign neoplasm of testis"
+        },
+        {
+            "id": 142,
+            "title": "Dr. Jekyll and Mr. Hyde",
+            "body": "Unspecified fracture of upper end of left radius, subsequent encounter for open fracture type I or II with routine healing"
+        },
+        {
+            "id": 143,
+            "title": "Juice",
+            "body": "Juvenile dermatopolymyositis with myopathy"
+        },
+        {
+            "id": 144,
+            "title": "Bolero",
+            "body": "Accidental discharge of unspecified larger firearm, subsequent encounter"
+        },
+        {
+            "id": 145,
+            "title": "Moving",
+            "body": "Nonrheumatic mitral (valve) stenosis"
+        },
+        {
+            "id": 146,
+            "title": "Documentarian",
+            "body": "Temporal sclerosis"
+        },
+        {
+            "id": 147,
+            "title": "Expelled",
+            "body": "Passenger in three-wheeled motor vehicle injured in collision with pedestrian or animal in nontraffic accident"
+        },
+        {
+            "id": 148,
+            "title": "The Pool Boys",
+            "body": "Superior glenoid labrum lesion"
+        },
+        {
+            "id": 149,
+            "title": "Summer by the River, A (Kuningasjätkä)",
+            "body": "Other disorders of eyelid"
+        },
+        {
+            "id": 150,
+            "title": "Mall Girls (Galerianki)",
+            "body": "Displacement of balloon (counterpulsation) device, subsequent encounter"
+        },
+        {
+            "id": 151,
+            "title": "Blacksmith Scene",
+            "body": "Primary open-angle glaucoma"
+        },
+        {
+            "id": 152,
+            "title": "Big Blue, The (Grand bleu, Le)",
+            "body": "Nondisplaced transverse fracture of shaft of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+        },
+        {
+            "id": 153,
+            "title": "Killers",
+            "body": "Animal-rider injured in collision with railway train or railway vehicle, initial encounter"
+        },
+        {
+            "id": 154,
+            "title": "Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau)",
+            "body": "Age-related osteoporosis with current pathological fracture, unspecified shoulder, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 155,
+            "title": "Girl on a Bicycle",
+            "body": "Poisoning by unspecified drugs primarily affecting the autonomic nervous system, accidental (unintentional), initial encounter"
+        },
+        {
+            "id": 156,
+            "title": "At Any Price",
+            "body": "Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving"
+        },
+        {
+            "id": 157,
+            "title": "Saw IV",
+            "body": "Observation and evaluation of newborn for suspected respiratory condition ruled out"
+        },
+        {
+            "id": 158,
+            "title": "Gridiron Gang",
+            "body": "Laceration of plantar artery of foot"
+        },
+        {
+            "id": 159,
+            "title": "Phat Beach",
+            "body": "Gout"
+        },
+        {
+            "id": 160,
+            "title": "Out of the Blue (Aramoana)",
+            "body": "Injury of median nerve at upper arm level, unspecified arm, initial encounter"
+        },
+        {
+            "id": 161,
+            "title": "Raise Your Voice",
+            "body": "Central cord syndrome at C1 level of cervical spinal cord, sequela"
+        },
+        {
+            "id": 162,
+            "title": "Cameraman, The",
+            "body": "Puncture wound with foreign body of unspecified back wall of thorax without penetration into thoracic cavity, subsequent encounter"
+        },
+        {
+            "id": 163,
+            "title": "First Daughter",
+            "body": "Unspecified fracture of head of unspecified femur, subsequent encounter for open fracture type I or II with nonunion"
+        },
+        {
+            "id": 164,
+            "title": "Asfalto",
+            "body": "Displaced fracture of greater tuberosity of left humerus, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 165,
+            "title": "Magic Camp",
+            "body": "War operations involving explosion of improvised explosive device [IED], military personnel, subsequent encounter"
+        },
+        {
+            "id": 166,
+            "title": "Man in the Gray Flannel Suit, The",
+            "body": "Laceration with foreign body of thyroid gland"
+        },
+        {
+            "id": 167,
+            "title": "Batman & Robin",
+            "body": "Unspecified subluxation of left thumb, sequela"
+        },
+        {
+            "id": 168,
+            "title": "When a Stranger Calls",
+            "body": "Fatigue fracture of vertebra, lumbosacral region, initial encounter for fracture"
+        },
+        {
+            "id": 169,
+            "title": "Loving Father, A (Aime ton père)",
+            "body": "Laceration of tail of pancreas, unspecified degree, sequela"
+        },
+        {
+            "id": 170,
+            "title": "Fire in Castilla (Tactilvision from the Moor of the Fright)",
+            "body": "Other viral diseases complicating childbirth"
+        },
+        {
+            "id": 171,
+            "title": "Spring Breakdown",
+            "body": "Contusion and laceration of right cerebrum with loss of consciousness of 6 hours to 24 hours, subsequent encounter"
+        },
+        {
+            "id": 172,
+            "title": "Surf's Up",
+            "body": "Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral"
+        },
+        {
+            "id": 173,
+            "title": "Bourne Ultimatum, The",
+            "body": "Nondisplaced fracture of greater trochanter of unspecified femur, subsequent encounter for closed fracture with malunion"
+        },
+        {
+            "id": 174,
+            "title": "Amish Grace",
+            "body": "Encounter for prophylactic removal of breast"
+        },
+        {
+            "id": 175,
+            "title": "Harry Potter and the Goblet of Fire",
+            "body": "Corrosion of first degree of unspecified ear [any part, except ear drum], sequela"
+        },
+        {
+            "id": 176,
+            "title": "Something for Everyone",
+            "body": "Fetal anemia and thrombocytopenia, second trimester"
+        },
+        {
+            "id": 177,
+            "title": "Jiminy Glick in La La Wood",
+            "body": "Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level"
+        },
+        {
+            "id": 178,
+            "title": "Jackass 3D",
+            "body": "Complications of kidney transplant"
+        },
+        {
+            "id": 179,
+            "title": "Bite the Bullet",
+            "body": "Premature separation of placenta with coagulation defect, unspecified, third trimester"
+        },
+        {
+            "id": 180,
+            "title": "Kung Fu Hustle (Gong fu)",
+            "body": "Unspecified complication of internal orthopedic prosthetic device, implant and graft"
+        },
+        {
+            "id": 181,
+            "title": "Margot at the Wedding",
+            "body": "Toxic effect of paints and dyes, not elsewhere classified, undetermined"
+        },
+        {
+            "id": 182,
+            "title": "Plaza Suite",
+            "body": "Displaced fracture of lesser trochanter of right femur, sequela"
+        },
+        {
+            "id": 183,
+            "title": "Road North (Tie pohjoiseen)",
+            "body": "Nondisplaced supracondylar fracture without intracondylar extension of lower end of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+        },
+        {
+            "id": 184,
+            "title": "Egg and I, The",
+            "body": "Other nondisplaced fracture of second cervical vertebra, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 185,
+            "title": "Partners",
+            "body": "Corrosion of first degree of buttock, subsequent encounter"
+        },
+        {
+            "id": 186,
+            "title": "Collector, The",
+            "body": "Other fracture of fifth metacarpal bone, right hand, initial encounter for closed fracture"
+        },
+        {
+            "id": 187,
+            "title": "Total Eclipse",
+            "body": "Poisoning by skeletal muscle relaxants [neuromuscular blocking agents], intentional self-harm, initial encounter"
+        },
+        {
+            "id": 188,
+            "title": "Silk Stockings",
+            "body": "Adverse effect of digestants"
+        },
+        {
+            "id": 189,
+            "title": "Fly Away Home",
+            "body": "Retrolental fibroplasia, right eye"
+        },
+        {
+            "id": 190,
+            "title": "Lilting",
+            "body": "Toxic effect of venom of other snake, accidental (unintentional), subsequent encounter"
+        },
+        {
+            "id": 191,
+            "title": "Matter of Dignity, A (To teleftaio psema)",
+            "body": "Equatorial staphyloma"
+        },
+        {
+            "id": 192,
+            "title": "Africa Screams",
+            "body": "Salter-Harris Type III physeal fracture of lower end of right femur, sequela"
+        },
+        {
+            "id": 193,
+            "title": "Ginger Snaps",
+            "body": "Displaced fracture of epiphysis (separation) (upper) of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+        },
+        {
+            "id": 194,
+            "title": "Saphead, The",
+            "body": "Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye"
+        },
+        {
+            "id": 195,
+            "title": "Officer Down",
+            "body": "External constriction of other specified part of neck, subsequent encounter"
+        },
+        {
+            "id": 196,
+            "title": "Harry Potter and the Goblet of Fire",
+            "body": "Other incomplete lesion at C1 level of cervical spinal cord"
+        },
+        {
+            "id": 197,
+            "title": "City Streets",
+            "body": "Toxic effect of venom of other North and South American snake, intentional self-harm"
+        },
+        {
+            "id": 198,
+            "title": "Bye Bye Monkey (Ciao maschio)",
+            "body": "Contusion of unspecified index finger without damage to nail"
+        },
+        {
+            "id": 199,
+            "title": "Quality Street",
+            "body": "Salter-Harris Type I physeal fracture of upper end of radius, unspecified arm, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 200,
+            "title": "I Love You, I Love You Not",
+            "body": "Carbuncle of unspecified hand"
+        },
+        {
+            "id": 201,
+            "title": "Trouble in Paradise",
+            "body": "Other specified injury of right Achilles tendon, subsequent encounter"
+        },
+        {
+            "id": 202,
+            "title": "Breakfast Club, The",
+            "body": "Other physeal fracture of lower end of ulna, left arm, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 203,
+            "title": "Deadly Prey",
+            "body": "Abrasion of left elbow, initial encounter"
+        },
+        {
+            "id": 204,
+            "title": "Enemy of the State",
+            "body": "Displaced spiral fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 205,
+            "title": "Sayonara",
+            "body": "Spontaneous rupture of flexor tendons, multiple sites"
+        },
+        {
+            "id": 206,
+            "title": "Family, The",
+            "body": "Other fracture of T9-T10 vertebra, initial encounter for open fracture"
+        },
+        {
+            "id": 207,
+            "title": "Drop Zone",
+            "body": "Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable"
+        },
+        {
+            "id": 208,
+            "title": "Invisible Sign, An",
+            "body": "Stress fracture, hip, unspecified, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 209,
+            "title": "Un vampiro para dos",
+            "body": "Presence of other heart-valve replacement"
+        },
+        {
+            "id": 210,
+            "title": "Mortal Kombat: Annihilation",
+            "body": "Traumatic hemorrhage of left cerebrum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving"
+        },
+        {
+            "id": 211,
+            "title": "Steamboat Willie",
+            "body": "Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of heel and midfoot"
+        },
+        {
+            "id": 212,
+            "title": "True Crime",
+            "body": "Fracture of unspecified carpal bone, unspecified wrist, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 213,
+            "title": "Flood",
+            "body": "Other and unspecified malignant neoplasm of skin"
+        },
+        {
+            "id": 214,
+            "title": "Vampyr",
+            "body": "Unspecified injury of unspecified renal vein"
+        },
+        {
+            "id": 215,
+            "title": "Black Ice (Musta jää)",
+            "body": "Unspecified hereditary retinal dystrophy"
+        },
+        {
+            "id": 216,
+            "title": "French Cancan",
+            "body": "Person boarding or alighting a three-wheeled motor vehicle injured in collision with pedestrian or animal"
+        },
+        {
+            "id": 217,
+            "title": "Dirty Pictures",
+            "body": "Nondisplaced fracture of intermediate cuneiform of left foot, initial encounter for open fracture"
+        },
+        {
+            "id": 218,
+            "title": "Wet Hot American Summer",
+            "body": "Corrosion of internal genitourinary organs, sequela"
+        },
+        {
+            "id": 219,
+            "title": "From the Hip",
+            "body": "Other osteoporosis with current pathological fracture, unspecified ankle and foot, initial encounter for fracture"
+        },
+        {
+            "id": 220,
+            "title": "Pyramid of Triboulet, The (La pyramide de Triboulet)",
+            "body": "Nondisplaced fracture of proximal phalanx of unspecified thumb, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 221,
+            "title": "Gunday",
+            "body": "Other inflammatory spondylopathies"
+        },
+        {
+            "id": 222,
+            "title": "Nazareno Cruz and the Wolf",
+            "body": "Other subluxation of left foot, initial encounter"
+        },
+        {
+            "id": 223,
+            "title": "They Call Me Bruce? (a.k.a. A Fistful of Chopsticks)",
+            "body": "Pathological fracture, pelvis, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 224,
+            "title": "Male Domination",
+            "body": "Chronic gout due to renal impairment, right knee, with tophus (tophi)"
+        },
+        {
+            "id": 225,
+            "title": "Red Pony, The",
+            "body": "Lyme disease, unspecified"
+        },
+        {
+            "id": 226,
+            "title": "June 9 ",
+            "body": "Nondisplaced transverse fracture of right acetabulum, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 227,
+            "title": "The Biggest Bundle of Them All",
+            "body": "Contaminated medical or biological substances"
+        },
+        {
+            "id": 228,
+            "title": "Boys Life 2",
+            "body": "Contusion of lung, bilateral"
+        },
+        {
+            "id": 229,
+            "title": "Just Like Me (Igualita a Mi)",
+            "body": "Fracture of unspecified part of left clavicle, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 230,
+            "title": "Midnight Madness",
+            "body": "Nondisplaced fracture of fifth metatarsal bone, left foot, sequela"
+        },
+        {
+            "id": 231,
+            "title": "Little Black Book",
+            "body": "Type 2 diabetes mellitus with diabetic mononeuropathy"
+        },
+        {
+            "id": 232,
+            "title": "Girl From Nowhere, The",
+            "body": "Idiopathic chronic gout, unspecified ankle and foot"
+        },
+        {
+            "id": 233,
+            "title": "Paradise Lost 3: Purgatory",
+            "body": "Displaced subtrochanteric fracture of right femur, subsequent encounter for open fracture type I or II with nonunion"
+        },
+        {
+            "id": 234,
+            "title": "Tender Hook, The (Boxer and the Bombshell, The)",
+            "body": "Primary blast injury of other part of small intestine, initial encounter"
+        },
+        {
+            "id": 235,
+            "title": "Stolen",
+            "body": "Nondisplaced fracture of posterior column [ilioischial] of unspecified acetabulum, sequela"
+        },
+        {
+            "id": 236,
+            "title": "Dark City",
+            "body": "Struck by horse, initial encounter"
+        },
+        {
+            "id": 237,
+            "title": "Now and Then",
+            "body": "Unspecified fracture of upper end of left ulna, initial encounter for open fracture type I or II"
+        },
+        {
+            "id": 238,
+            "title": "Bastards of the Party",
+            "body": "Assault by hot household appliances"
+        },
+        {
+            "id": 239,
+            "title": "Adventures of Don Juan",
+            "body": "Posterior displaced fracture of sternal end of right clavicle, initial encounter for open fracture"
+        },
+        {
+            "id": 240,
+            "title": "Slaughter of the Innocents",
+            "body": "Burn of unspecified degree of multiple sites of unspecified wrist and hand, initial encounter"
+        },
+        {
+            "id": 241,
+            "title": "Way I Spent the End of the World, The (Cum mi-am petrecut sfarsitul lumii)",
+            "body": "Unspecified occupant of bus injured in collision with fixed or stationary object in nontraffic accident, sequela"
+        },
+        {
+            "id": 242,
+            "title": "Battle of Russia, The (Why We Fight, 5)",
+            "body": "Displaced fracture of medial wall of left acetabulum"
+        },
+        {
+            "id": 243,
+            "title": "Toy, The",
+            "body": "Nondisplaced fracture of shaft of fifth metacarpal bone, left hand, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 244,
+            "title": "Rolling",
+            "body": "Person boarding or alighting a three-wheeled motor vehicle injured in collision with pedal cycle"
+        },
+        {
+            "id": 245,
+            "title": "Slaves of New York",
+            "body": "Contact with needle (sewing)"
+        },
+        {
+            "id": 246,
+            "title": "Grudge, The",
+            "body": "Idiopathic chronic gout, multiple sites"
+        },
+        {
+            "id": 247,
+            "title": "Brasher Doubloon, The",
+            "body": "Puncture wound with foreign body, right thigh, sequela"
+        },
+        {
+            "id": 248,
+            "title": "Bugs Bunny's Looney Christmas Tales",
+            "body": "Corrosions involving 10-19% of body surface"
+        },
+        {
+            "id": 249,
+            "title": "Latin Music USA",
+            "body": "Hallux valgus (acquired), unspecified foot"
+        },
+        {
+            "id": 250,
+            "title": "Lost in Translation",
+            "body": "Unspecified motorcycle rider injured in collision with other nonmotor vehicle in traffic accident, initial encounter"
+        },
+        {
+            "id": 251,
+            "title": "Black Snake Moan",
+            "body": "Corrosion of second degree of single right finger (nail) except thumb, initial encounter"
+        },
+        {
+            "id": 252,
+            "title": "1001 Nights",
+            "body": "Other fracture of left ilium, initial encounter for closed fracture"
+        },
+        {
+            "id": 253,
+            "title": "Boy and the Pirates, The",
+            "body": "Flail joint, right hip"
+        },
+        {
+            "id": 254,
+            "title": "Ghosts of Cité Soleil",
+            "body": "Toxic effect of cadmium and its compounds, undetermined"
+        },
+        {
+            "id": 255,
+            "title": "Wave, The",
+            "body": "Puncture wound without foreign body of right great toe with damage to nail, sequela"
+        },
+        {
+            "id": 256,
+            "title": "Lucifer Rising",
+            "body": "NIHSS score 6"
+        },
+        {
+            "id": 257,
+            "title": "Voyage of the Damned",
+            "body": "Obstructed labor due to face presentation"
+        },
+        {
+            "id": 258,
+            "title": "True Story",
+            "body": "Cellulitis of right orbit"
+        },
+        {
+            "id": 259,
+            "title": "Crawlspace",
+            "body": "Subacute sclerosing panencephalitis"
+        },
+        {
+            "id": 260,
+            "title": "Dragonslayer",
+            "body": "Injury of other specified intrathoracic organs"
+        },
+        {
+            "id": 261,
+            "title": "Jay and Silent Bob Go Down Under",
+            "body": "Infection of obstetric surgical wound"
+        },
+        {
+            "id": 262,
+            "title": "Questioning Darwin",
+            "body": "Direct infection of right hand in infectious and parasitic diseases classified elsewhere"
+        },
+        {
+            "id": 263,
+            "title": "Hottest State, The",
+            "body": "Displaced fracture of medial wall of left acetabulum"
+        },
+        {
+            "id": 264,
+            "title": "7 Days (Les 7 jours du talion)",
+            "body": "Poisoning by, adverse effect of and underdosing of antithyroid drugs"
+        },
+        {
+            "id": 265,
+            "title": "First Comes Love",
+            "body": "Complete traumatic amputation of one right lesser toe"
+        },
+        {
+            "id": 266,
+            "title": "Reef, The",
+            "body": "Hypermagnesemia"
+        },
+        {
+            "id": 267,
+            "title": "Muck",
+            "body": "Poisoning by dental drugs, topically applied, accidental (unintentional), initial encounter"
+        },
+        {
+            "id": 268,
+            "title": "Oh, Woe Is Me (Hélas pour moi)",
+            "body": "Sprain of calcaneofibular ligament"
+        },
+        {
+            "id": 269,
+            "title": "Lathe of Heaven, The",
+            "body": "Malignant neoplasm of other cranial nerves"
+        },
+        {
+            "id": 270,
+            "title": "The Gift of Love",
+            "body": "Unspecified fracture of unspecified toe(s), subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 271,
+            "title": "Thor",
+            "body": "Merkel cell carcinoma of scalp and neck"
+        },
+        {
+            "id": 272,
+            "title": "Tokyo Fist (Tokyo ken)",
+            "body": "Nondisplaced fracture of neck of right radius, subsequent encounter for open fracture type I or II with malunion"
+        },
+        {
+            "id": 273,
+            "title": "Dersu Uzala",
+            "body": "Pathological fracture in other disease, unspecified ulna and radius, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 274,
+            "title": "The Fabulous Baron Munchausen",
+            "body": "Nondisplaced comminuted fracture of shaft of ulna, left arm, subsequent encounter for open fracture type I or II with nonunion"
+        },
+        {
+            "id": 275,
+            "title": "Ron Clark Story, The",
+            "body": "Other injury of muscle and tendon of long flexor muscle of toe at ankle and foot level, left foot, subsequent encounter"
+        },
+        {
+            "id": 276,
+            "title": "Werner - Beinhart!",
+            "body": "Laceration of flexor muscle, fascia and tendon of right thumb at forearm level, initial encounter"
+        },
+        {
+            "id": 277,
+            "title": "Coup de grâce (Der Fangschuß)",
+            "body": "Periostitis of right orbit"
+        },
+        {
+            "id": 278,
+            "title": "I Love You, Alice B. Toklas!",
+            "body": "Nondisplaced fracture of acromial process, unspecified shoulder, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 279,
+            "title": "Kid Cannabis",
+            "body": "Activity, yoga"
+        },
+        {
+            "id": 280,
+            "title": "Neighbouring Sounds (O som ao redor)",
+            "body": "Other acute nonsuppurative otitis media"
+        },
+        {
+            "id": 281,
+            "title": "Adventures of Don Juan",
+            "body": "Abscess of tendon sheath, unspecified lower leg"
+        },
+        {
+            "id": 282,
+            "title": "Coelacanth: The Fish That Time Forgot",
+            "body": "Poisoning by other agents primarily affecting gastrointestinal system, intentional self-harm, initial encounter"
+        },
+        {
+            "id": 283,
+            "title": "Robot Monster",
+            "body": "Displaced fracture of anterior wall of right acetabulum, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 284,
+            "title": "Half Baked",
+            "body": "Stable burst fracture of fourth thoracic vertebra, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 285,
+            "title": "Shrek the Third",
+            "body": "Displaced oblique fracture of shaft of right fibula, subsequent encounter for open fracture type I or II with routine healing"
+        },
+        {
+            "id": 286,
+            "title": "Rebecca of Sunnybrook Farm",
+            "body": "Contusion of unspecified ankle"
+        },
+        {
+            "id": 287,
+            "title": "Bending the Rules",
+            "body": "Isosporiasis"
+        },
+        {
+            "id": 288,
+            "title": "Alex and Emma",
+            "body": "Other specified dorsopathies, lumbosacral region"
+        },
+        {
+            "id": 289,
+            "title": "Fourth Angel, The",
+            "body": "Contusion of unspecified elbow, subsequent encounter"
+        },
+        {
+            "id": 290,
+            "title": "Somebody Up There Likes Me",
+            "body": "Cocaine use, unspecified"
+        },
+        {
+            "id": 291,
+            "title": "Texas Across the River",
+            "body": "Nondisplaced Maisonneuve's fracture of left leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 292,
+            "title": "American Heart",
+            "body": "Carcinoma in situ of respiratory system, unspecified"
+        },
+        {
+            "id": 293,
+            "title": "Darling Companion",
+            "body": "Other mechanical complication of permanent sutures, subsequent encounter"
+        },
+        {
+            "id": 294,
+            "title": "Kid With a Bike, The (Le gamin au vélo)",
+            "body": "Displaced spiral fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+        },
+        {
+            "id": 295,
+            "title": "Room 666 (Chambre 666)",
+            "body": "Pain in unspecified foot"
+        },
+        {
+            "id": 296,
+            "title": "Always Leave Them Laughing",
+            "body": "Other injury of urethra, subsequent encounter"
+        },
+        {
+            "id": 297,
+            "title": "Chicago Massacre: Richard Speck",
+            "body": "Personal history of other malignant neoplasm of small intestine"
+        },
+        {
+            "id": 298,
+            "title": "Diabolique",
+            "body": "Non-pressure chronic ulcer of unspecified part of right lower leg"
+        },
+        {
+            "id": 299,
+            "title": "Tequila Sunrise",
+            "body": "Laceration of other flexor muscle, fascia and tendon at forearm level, left arm, sequela"
+        },
+        {
+            "id": 300,
+            "title": "When Eight Bells Toll",
+            "body": "Corrosion with resulting rupture and destruction of unspecified eyeball, initial encounter"
+        },
+        {
+            "id": 301,
+            "title": "Island of Dr. Moreau, The",
+            "body": "Other specified injury of right external jugular vein, subsequent encounter"
+        },
+        {
+            "id": 302,
+            "title": "Tennessee",
+            "body": "Unspecified fracture of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+        },
+        {
+            "id": 303,
+            "title": "Father Takes a Wife",
+            "body": "Displaced osteochondral fracture of left patella, subsequent encounter for closed fracture with delayed healing"
+        },
+        {
+            "id": 304,
+            "title": "Temptation of St. Tony, The (Püha Tõnu kiusamine)",
+            "body": "Other myositis, right forearm"
+        },
+        {
+            "id": 305,
+            "title": "Let's Do It Again",
+            "body": "Displaced fracture of neck of scapula, right shoulder, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 306,
+            "title": "Sweet November",
+            "body": "Age-related osteoporosis with current pathological fracture, vertebra(e), subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 307,
+            "title": "Abominable Snowman, The (Abominable Snowman of the Himalayas, The)",
+            "body": "Other specified bursopathies, multiple sites"
+        },
+        {
+            "id": 308,
+            "title": "Shout, The",
+            "body": "Other physeal fracture of phalanx of right toe, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 309,
+            "title": "Fear",
+            "body": "Laceration of other flexor muscle, fascia and tendon at forearm level, right arm, initial encounter"
+        },
+        {
+            "id": 310,
+            "title": "Imagine: John Lennon",
+            "body": "Tourette's disorder"
+        },
+        {
+            "id": 311,
+            "title": "Control",
+            "body": "External constriction of other part of head, sequela"
+        },
+        {
+            "id": 312,
+            "title": "Last Days of Pompeii, The (Gli ultimi giorni di Pompeii)",
+            "body": "Pressure ulcer of contiguous site of back, buttock and hip, stage 2"
+        },
+        {
+            "id": 313,
+            "title": "Men Who Tread on the Tiger's Tail, The (Tora no o wo fumu otokotachi)",
+            "body": "Idiopathic chronic gout, multiple sites, with tophus (tophi)"
+        },
+        {
+            "id": 314,
+            "title": "Dilemma, The",
+            "body": "Coma scale, best verbal response, none, in the field [EMT or ambulance]"
+        },
+        {
+            "id": 315,
+            "title": "Song of the Exile (Ke tu qiu hen)",
+            "body": "Displaced spiral fracture of shaft of unspecified femur, subsequent encounter for closed fracture with delayed healing"
+        },
+        {
+            "id": 316,
+            "title": "Monsieur Verdoux",
+            "body": "Nondisplaced oblique fracture of shaft of right radius, initial encounter for open fracture type I or II"
+        },
+        {
+            "id": 317,
+            "title": "Some Girl",
+            "body": "Poisoning by, adverse effect of and underdosing of succinimides and oxazolidinediones"
+        },
+        {
+            "id": 318,
+            "title": "Little Monsters",
+            "body": "Primary blast injury of unspecified part of small intestine"
+        },
+        {
+            "id": 319,
+            "title": "Fall, The",
+            "body": "Other specified injury of right Achilles tendon, subsequent encounter"
+        },
+        {
+            "id": 320,
+            "title": "Golden Earrings",
+            "body": "Other injury of unspecified intra-abdominal organ, subsequent encounter"
+        },
+        {
+            "id": 321,
+            "title": "Lenny Bruce: Swear to Tell the Truth",
+            "body": "Poisoning by barbiturates, undetermined, sequela"
+        },
+        {
+            "id": 322,
+            "title": "Italian Job, The",
+            "body": "Other peripheral vascular diseases"
+        },
+        {
+            "id": 323,
+            "title": "Garage",
+            "body": "Nondisplaced fracture of sternal end of right clavicle, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 324,
+            "title": "Transporter 2",
+            "body": "Acute recurrent sinusitis, unspecified"
+        },
+        {
+            "id": 325,
+            "title": "Yu-Gi-Oh!: Bonds Beyond Time (Gekijouban Yuugiou: Chouyuugou! Jikuu o koeta kizuna)",
+            "body": "Toxic effect of chlorine gas, accidental (unintentional), initial encounter"
+        },
+        {
+            "id": 326,
+            "title": "Intimacy",
+            "body": "Ring corneal ulcer, bilateral"
+        },
+        {
+            "id": 327,
+            "title": "Private Parts",
+            "body": "Open bite of thumb without damage to nail"
+        },
+        {
+            "id": 328,
+            "title": "Daar",
+            "body": "Unspecified open wound of unspecified part of neck"
+        },
+        {
+            "id": 329,
+            "title": "Sweet Hereafter, The",
+            "body": "Unspecified physeal fracture of lower end of right femur"
+        },
+        {
+            "id": 330,
+            "title": "Three Musketeers, The",
+            "body": "Other adverse effects, not elsewhere classified, sequela"
+        },
+        {
+            "id": 331,
+            "title": "Girl in Progress",
+            "body": "Car driver injured in collision with heavy transport vehicle or bus in nontraffic accident, initial encounter"
+        },
+        {
+            "id": 332,
+            "title": "Ballad of Narayama, The (Narayama Bushiko)",
+            "body": "Military operations involving rubber bullets, military personnel"
+        },
+        {
+            "id": 333,
+            "title": "Hawks and Sparrows (Uccellacci e Uccellini)",
+            "body": "Superficial foreign body, unspecified knee"
+        },
+        {
+            "id": 334,
+            "title": "Brute (Bandyta)",
+            "body": "Pure hypercholesterolemia, unspecified"
+        },
+        {
+            "id": 335,
+            "title": "Blame It on Rio",
+            "body": "Nondisplaced fracture of left radial styloid process, sequela"
+        },
+        {
+            "id": 336,
+            "title": "Catching Hell",
+            "body": "Poisoning by keratolytics, keratoplastics, and other hair treatment drugs and preparations, undetermined, initial encounter"
+        },
+        {
+            "id": 337,
+            "title": "Minuscule: Valley of the Lost Ants (Minuscule - La vallée des fourmis perdues)",
+            "body": "Nondisplaced oblique fracture of shaft of right fibula, subsequent encounter for closed fracture with malunion"
+        },
+        {
+            "id": 338,
+            "title": "Eden Lake",
+            "body": "Military operations involving intentional restriction of air and airway, military personnel, sequela"
+        },
+        {
+            "id": 339,
+            "title": "Simon",
+            "body": "Salter-Harris Type I physeal fracture of upper end of left fibula, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 340,
+            "title": "How to Deal",
+            "body": "Injury of nerve root of thoracic spine, initial encounter"
+        },
+        {
+            "id": 341,
+            "title": "Cop Out",
+            "body": "Viral pneumonia, not elsewhere classified"
+        },
+        {
+            "id": 342,
+            "title": "Harvest Month, The (Elokuu)",
+            "body": "Toxic effect of fluorine gas and hydrogen fluoride"
+        },
+        {
+            "id": 343,
+            "title": "[REC] 4: Apocalypse",
+            "body": "War operations involving other destruction of aircraft, civilian"
+        },
+        {
+            "id": 344,
+            "title": "Bigger Than the Sky",
+            "body": "Nondisplaced fracture of unspecified tibial spine, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+        },
+        {
+            "id": 345,
+            "title": "Shake Hands with the Devil",
+            "body": "Other injury of muscle(s) and tendon(s) of the rotator cuff of unspecified shoulder, sequela"
+        },
+        {
+            "id": 346,
+            "title": "Wu yen",
+            "body": "Laceration of muscle, fascia and tendon of long head of biceps, right arm"
+        },
+        {
+            "id": 347,
+            "title": "Exists",
+            "body": "Nondisplaced segmental fracture of shaft of humerus, left arm, sequela"
+        },
+        {
+            "id": 348,
+            "title": "New World (Shin-sae-gye)",
+            "body": "Motorcycle passenger injured in collision with pedal cycle in traffic accident, subsequent encounter"
+        },
+        {
+            "id": 349,
+            "title": "Itinerary of a Spoiled Child",
+            "body": "Adult sexual abuse, confirmed, subsequent encounter"
+        },
+        {
+            "id": 350,
+            "title": "Harold and Kumar Go to White Castle",
+            "body": "Nondisplaced transverse fracture of shaft of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+        },
+        {
+            "id": 351,
+            "title": "Secret Reunion (Ui-hyeong-je)",
+            "body": "Fatigue fracture of vertebra, lumbar region, initial encounter for fracture"
+        },
+        {
+            "id": 352,
+            "title": "The Fox and the Hound 2",
+            "body": "Foreign body in genitourinary tract"
+        },
+        {
+            "id": 353,
+            "title": "Divorce - Italian Style (Divorzio all'italiana)",
+            "body": "Injury of radial nerve at wrist and hand level of left arm, initial encounter"
+        },
+        {
+            "id": 354,
+            "title": "Slim Susie (Smala Sussie)",
+            "body": "Acute noninfective otitis externa"
+        },
+        {
+            "id": 355,
+            "title": "Deadfall",
+            "body": "Long term (current) use of steroids"
+        },
+        {
+            "id": 356,
+            "title": "Conquest 1453 (Fetih 1453)",
+            "body": "External constriction of unspecified ear, sequela"
+        },
+        {
+            "id": 357,
+            "title": "Skin Too Few: The Days of Nick Drake, A",
+            "body": "Unspecified dislocation of unspecified finger, initial encounter"
+        },
+        {
+            "id": 358,
+            "title": "Princess",
+            "body": "Puncture wound without foreign body of right front wall of thorax with penetration into thoracic cavity, sequela"
+        },
+        {
+            "id": 359,
+            "title": "Loves of Carmen, The",
+            "body": "Traumatic spondylopathy, occipito-atlanto-axial region"
+        },
+        {
+            "id": 360,
+            "title": "She's Having a Baby",
+            "body": "Poisoning by unspecified topical agent, undetermined, subsequent encounter"
+        },
+        {
+            "id": 361,
+            "title": "Passion",
+            "body": "Other disorders of unspecified eye following cataract surgery"
+        },
+        {
+            "id": 362,
+            "title": "Singin' in the Rain",
+            "body": "Jumping or diving from boat striking bottom causing drowning and submersion, sequela"
+        },
+        {
+            "id": 363,
+            "title": "Loco Love (Mi Casa, Su Casa)",
+            "body": "Other human herpesviruses"
+        },
+        {
+            "id": 364,
+            "title": "Rise",
+            "body": "Abrasion of unspecified external genital organs, male, sequela"
+        },
+        {
+            "id": 365,
+            "title": "Cat in the Hat, The",
+            "body": "Procedure and treatment not carried out due to patient smoking"
+        },
+        {
+            "id": 366,
+            "title": "Initiation, The",
+            "body": "Tuberculous pleurisy"
+        },
+        {
+            "id": 367,
+            "title": "Brest Fortress (Brestskaya krepost)",
+            "body": "Poisoning by other antihypertensive drugs, assault"
+        },
+        {
+            "id": 368,
+            "title": "Salaam Cinema",
+            "body": "Barton's fracture of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+        },
+        {
+            "id": 369,
+            "title": "Red Road",
+            "body": "Passenger in pick-up truck or van injured in collision with car, pick-up truck or van in traffic accident, sequela"
+        },
+        {
+            "id": 370,
+            "title": "Mother, The",
+            "body": "Laceration of flexor muscle, fascia and tendon of left ring finger at forearm level, subsequent encounter"
+        },
+        {
+            "id": 371,
+            "title": "The Disembodied",
+            "body": "Displaced fracture of body of right calcaneus, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 372,
+            "title": "Kon-Tiki",
+            "body": "Complete traumatic amputation of female external genital organs, sequela"
+        },
+        {
+            "id": 373,
+            "title": "In Good Company",
+            "body": "Other encephalitis and encephalomyelitis"
+        },
+        {
+            "id": 374,
+            "title": "Funeral, The",
+            "body": "Lead-induced chronic gout, unspecified site, with tophus (tophi)"
+        },
+        {
+            "id": 375,
+            "title": "Kolmistaan",
+            "body": "Radiation proctitis"
+        },
+        {
+            "id": 376,
+            "title": "Love Happens",
+            "body": "War operations involving firearms pellets, military personnel, sequela"
+        },
+        {
+            "id": 377,
+            "title": "View to a Kill, A",
+            "body": "Subluxation of unspecified interphalangeal joint of unspecified thumb, initial encounter"
+        },
+        {
+            "id": 378,
+            "title": "Turandot Project, The",
+            "body": "Fracture of other part of scapula, right shoulder, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 379,
+            "title": "Dead Alive (Braindead)",
+            "body": "Impacted teeth"
+        },
+        {
+            "id": 380,
+            "title": "Dragonheart",
+            "body": "Hungry bone syndrome"
+        },
+        {
+            "id": 381,
+            "title": "Don't Go In the Woods",
+            "body": "Laceration without foreign body of unspecified back wall of thorax with penetration into thoracic cavity, initial encounter"
+        },
+        {
+            "id": 382,
+            "title": "President's Last Bang, The (Geuddae geusaramdeul)",
+            "body": "Moderate laceration of unspecified part of pancreas, subsequent encounter"
+        },
+        {
+            "id": 383,
+            "title": "Step Up",
+            "body": "Toxic effect of organophosphate and carbamate insecticides, accidental (unintentional), sequela"
+        },
+        {
+            "id": 384,
+            "title": "Save the Green Planet! (Jigureul jikyeora!)",
+            "body": "Other specified myoneural disorders"
+        },
+        {
+            "id": 385,
+            "title": "Hellraiser",
+            "body": "Superficial foreign body of left upper arm, initial encounter"
+        },
+        {
+            "id": 386,
+            "title": "One Direction: This Is Us",
+            "body": "Unspecified injury of axillary artery, unspecified side, subsequent encounter"
+        },
+        {
+            "id": 387,
+            "title": "Mademoiselle",
+            "body": "Coloboma of optic disc"
+        },
+        {
+            "id": 388,
+            "title": "Dottie Gets Spanked",
+            "body": "Laceration of flexor muscle, fascia and tendon of right index finger at wrist and hand level, initial encounter"
+        },
+        {
+            "id": 389,
+            "title": "3rd World Hero (Bayaning Third World)",
+            "body": "Assault by strike by other specified type of sport equipment"
+        },
+        {
+            "id": 390,
+            "title": "Border Radio",
+            "body": "Toxic effect of formaldehyde, accidental (unintentional), subsequent encounter"
+        },
+        {
+            "id": 391,
+            "title": "Wild Horses (Caballos salvajes)",
+            "body": "Fracture of third thoracic vertebra"
+        },
+        {
+            "id": 392,
+            "title": "Keys to Tulsa",
+            "body": "Passenger in pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in nontraffic accident"
+        },
+        {
+            "id": 393,
+            "title": "Rocky V",
+            "body": "Problems related to medical facilities and other health care"
+        },
+        {
+            "id": 394,
+            "title": "World Moves On, The",
+            "body": "Glaucoma secondary to other eye disorders, right eye, indeterminate stage"
+        },
+        {
+            "id": 395,
+            "title": "Back to the Secret Garden",
+            "body": "Other fracture of first metacarpal bone, left hand, sequela"
+        },
+        {
+            "id": 396,
+            "title": "It! The Terror from Beyond Space",
+            "body": "Nonspecific low blood-pressure reading"
+        },
+        {
+            "id": 397,
+            "title": "Rent",
+            "body": "Other complications of spinal and epidural anesthesia during pregnancy, unspecified trimester"
+        },
+        {
+            "id": 398,
+            "title": "Fortune Cookie, The",
+            "body": "Displaced Maisonneuve's fracture of right leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 399,
+            "title": "Cromwell",
+            "body": "Forced landing of other private fixed-wing aircraft injuring occupant"
+        },
+        {
+            "id": 400,
+            "title": "Chapman Report, The",
+            "body": "Burn of third degree of unspecified thumb (nail), sequela"
+        },
+        {
+            "id": 401,
+            "title": "This Film Is Not Yet Rated",
+            "body": "Diabetes mellitus due to underlying condition with hyperosmolarity with coma"
+        },
+        {
+            "id": 402,
+            "title": "Just Imagine",
+            "body": "Nondisplaced spiral fracture of shaft of humerus, right arm, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 403,
+            "title": "Proprietor, The",
+            "body": "Obstructed labor due to shoulder presentation, other fetus"
+        },
+        {
+            "id": 404,
+            "title": "(A)sexual",
+            "body": "Unspecified injury of unspecified tibial artery, left leg, initial encounter"
+        },
+        {
+            "id": 405,
+            "title": "Blended",
+            "body": "Other acute pancreatitis with uninfected necrosis"
+        },
+        {
+            "id": 406,
+            "title": "Barefoot Executive, The",
+            "body": "Other fracture of upper end of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+        },
+        {
+            "id": 407,
+            "title": "Elvis: That's the Way It Is",
+            "body": "Unspecified blepharitis left upper eyelid"
+        },
+        {
+            "id": 408,
+            "title": "Big Business",
+            "body": "Other fracture of upper end of right radius, initial encounter for closed fracture"
+        },
+        {
+            "id": 409,
+            "title": "Blume in Love",
+            "body": "Legal intervention involving unspecified explosives, bystander injured"
+        },
+        {
+            "id": 410,
+            "title": "Fastest Gun Alive, The",
+            "body": "Nondisplaced fracture of medial wall of right acetabulum, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 411,
+            "title": "Moon 44",
+            "body": "Hypertrophy of tonsils"
+        },
+        {
+            "id": 412,
+            "title": "Guide, The (O Xenagos)",
+            "body": "Benign lipomatous neoplasm of spermatic cord"
+        },
+        {
+            "id": 413,
+            "title": "Cry, the Beloved Country",
+            "body": "Unspecified injury of unspecified muscles, fascia and tendons at forearm level, right arm, sequela"
+        },
+        {
+            "id": 414,
+            "title": "Honey Moon (Honigmond)",
+            "body": "Puncture wound without foreign body of abdominal wall, left lower quadrant with penetration into peritoneal cavity, subsequent encounter"
+        },
+        {
+            "id": 415,
+            "title": "Ever After: A Cinderella Story",
+            "body": "Xanthelasma of left lower eyelid"
+        },
+        {
+            "id": 416,
+            "title": "To Be King (Koning van Katoren)",
+            "body": "Burn of other internal organ, sequela"
+        },
+        {
+            "id": 417,
+            "title": "Holy Mountain, The (Montaña sagrada, La)",
+            "body": "Other psychoactive substance dependence with intoxication delirium"
+        },
+        {
+            "id": 418,
+            "title": "Hobbit: The Desolation of Smaug, The",
+            "body": "Contusion of lower back and pelvis"
+        },
+        {
+            "id": 419,
+            "title": "Tale of Springtime, A (Conte de Printemps)",
+            "body": "Autologous donor, whole blood"
+        },
+        {
+            "id": 420,
+            "title": "*batteries not included",
+            "body": "Other fracture of right foot, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 421,
+            "title": "Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il)",
+            "body": "Puncture wound with foreign body of unspecified toe(s) with damage to nail, initial encounter"
+        },
+        {
+            "id": 422,
+            "title": "Wild Horses (Caballos salvajes)",
+            "body": "Puncture wound without foreign body of right back wall of thorax without penetration into thoracic cavity, subsequent encounter"
+        },
+        {
+            "id": 423,
+            "title": "Ambush Trail",
+            "body": "Disruption of perineal obstetric wound"
+        },
+        {
+            "id": 424,
+            "title": "When Time Ran Out... (Day the World Ended, The)",
+            "body": "Nondisplaced trimalleolar fracture of unspecified lower leg, subsequent encounter for open fracture type I or II with delayed healing"
+        },
+        {
+            "id": 425,
+            "title": "Captain America",
+            "body": "Sprain of unspecified parts of right shoulder girdle, initial encounter"
+        },
+        {
+            "id": 426,
+            "title": "Deep Blue Sea",
+            "body": "Poisoning by other hormones and synthetic substitutes, undetermined"
+        },
+        {
+            "id": 427,
+            "title": "Mother and Son (Mat i syn)",
+            "body": "Dislocation of distal interphalangeal joint of right little finger, subsequent encounter"
+        },
+        {
+            "id": 428,
+            "title": "Begotten",
+            "body": "Bitten by other fish, sequela"
+        },
+        {
+            "id": 429,
+            "title": "Merry War, A",
+            "body": "Miscellaneous otorhinolaryngological devices associated with adverse incidents, not elsewhere classified"
+        },
+        {
+            "id": 430,
+            "title": "Night at the Museum: Battle of the Smithsonian",
+            "body": "Other specified congenital malformations of eye"
+        },
+        {
+            "id": 431,
+            "title": "Zona Zamfirova",
+            "body": "Hemorrhage, not elsewhere classified"
+        },
+        {
+            "id": 432,
+            "title": "Man Who Knew Too Much, The",
+            "body": "Corrosion of second degree of neck, initial encounter"
+        },
+        {
+            "id": 433,
+            "title": "Lemonade Joe (Limonádový Joe aneb Konská opera)",
+            "body": "Other injury of intrinsic muscle, fascia and tendon of other finger at wrist and hand level, sequela"
+        },
+        {
+            "id": 434,
+            "title": "Post Tenebras Lux",
+            "body": "Displaced spiral fracture of shaft of ulna, unspecified arm, sequela"
+        },
+        {
+            "id": 435,
+            "title": "Executioner, The",
+            "body": "Toxic effect of fusel oil, undetermined"
+        },
+        {
+            "id": 436,
+            "title": "My Man (Mon homme)",
+            "body": "Lambert-Eaton syndrome in disease classified elsewhere"
+        },
+        {
+            "id": 437,
+            "title": "Breathe In",
+            "body": "Other injury of extensor muscle, fascia and tendon of left little finger at wrist and hand level"
+        },
+        {
+            "id": 438,
+            "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+            "body": "Poisoning by unspecified hormones and synthetic substitutes, assault, sequela"
+        },
+        {
+            "id": 439,
+            "title": "Astronaut's Wife, The",
+            "body": "Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter"
+        },
+        {
+            "id": 440,
+            "title": "Village, The",
+            "body": "Stiffness of left shoulder, not elsewhere classified"
+        },
+        {
+            "id": 441,
+            "title": "Hotel",
+            "body": "Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left non-dominant side"
+        },
+        {
+            "id": 442,
+            "title": "Atomic Brain, The",
+            "body": "Fall in (into) filled bathtub causing drowning and submersion, initial encounter"
+        },
+        {
+            "id": 443,
+            "title": "Diabolique",
+            "body": "Breakdown (mechanical) of internal fixation device of bones of foot and toes, initial encounter"
+        },
+        {
+            "id": 444,
+            "title": "Gun Crazy (a.k.a. Deadly Is the Female)",
+            "body": "Unspecified retinal detachment with retinal break, bilateral"
+        },
+        {
+            "id": 445,
+            "title": "Hamlet",
+            "body": "Major laceration of right external jugular vein, sequela"
+        },
+        {
+            "id": 446,
+            "title": "City of Men (Cidade dos Homens)",
+            "body": "Burkitt lymphoma, lymph nodes of head, face, and neck"
+        },
+        {
+            "id": 447,
+            "title": "Let It Snow",
+            "body": "Unspecified abnormal finding in specimens from digestive organs and abdominal cavity"
+        },
+        {
+            "id": 448,
+            "title": "Sundowners, The",
+            "body": "Barton's fracture of left radius, subsequent encounter for open fracture type I or II with delayed healing"
+        },
+        {
+            "id": 449,
+            "title": "Henri-Georges Clouzot's Inferno (L'enfer d'Henri-Georges Clouzot)",
+            "body": "Contusion of other specified part of neck, subsequent encounter"
+        },
+        {
+            "id": 450,
+            "title": "Good Night, and Good Luck.",
+            "body": "Driver of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, initial encounter"
+        },
+        {
+            "id": 451,
+            "title": "Red Sorghum (Hong gao liang)",
+            "body": "Military operations involving biological weapons"
+        },
+        {
+            "id": 452,
+            "title": "Hamlet",
+            "body": "Fetomaternal placental transfusion syndrome, first trimester"
+        },
+        {
+            "id": 453,
+            "title": "Late Night Shopping",
+            "body": "Burn of third degree of unspecified ankle, initial encounter"
+        },
+        {
+            "id": 454,
+            "title": "Not on the Lips (Pas sur la bouche)",
+            "body": "Posterior dislocation of right hip, sequela"
+        },
+        {
+            "id": 455,
+            "title": "Commandos Strike at Dawn",
+            "body": "Nondisplaced unspecified fracture of right great toe, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 456,
+            "title": "Dream (Bi-mong)",
+            "body": "Other specified injury of unspecified muscle and tendon at ankle and foot level, unspecified foot, sequela"
+        },
+        {
+            "id": 457,
+            "title": "The Deep Six",
+            "body": "Poisoning by other estrogens and progestogens, undetermined, initial encounter"
+        },
+        {
+            "id": 458,
+            "title": "Case 39",
+            "body": "Torus fracture of upper end of right fibula, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 459,
+            "title": "Gen 13 (a.k.a. Gen13: The Animated Movie)",
+            "body": "Injury of nerve root of cervical spine, initial encounter"
+        },
+        {
+            "id": 460,
+            "title": "Step Up 3D",
+            "body": "Motorcycle driver injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+        },
+        {
+            "id": 461,
+            "title": "House of Branching Love, The (Haarautuvan rakkauden talo)",
+            "body": "Broken internal left knee prosthesis, sequela"
+        },
+        {
+            "id": 462,
+            "title": "Our Relations",
+            "body": "Other hypertrophic osteoarthropathy, right thigh"
+        },
+        {
+            "id": 463,
+            "title": "Bunch Of Amateurs, A",
+            "body": "Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes"
+        },
+        {
+            "id": 464,
+            "title": "Severed Arm, The",
+            "body": "Traumatic compartment syndrome of left lower extremity, initial encounter"
+        },
+        {
+            "id": 465,
+            "title": "Koran by Heart",
+            "body": "Unspecified injury of extensor muscle, fascia and tendon of left ring finger at wrist and hand level, initial encounter"
+        },
+        {
+            "id": 466,
+            "title": "Lolita",
+            "body": "Open bite of unspecified great toe without damage to nail, subsequent encounter"
+        },
+        {
+            "id": 467,
+            "title": "Godfather, The",
+            "body": "Laceration with foreign body of left lesser toe(s) without damage to nail, subsequent encounter"
+        },
+        {
+            "id": 468,
+            "title": "Artois the Goat",
+            "body": "Laceration of intrinsic muscle, fascia and tendon of right thumb at wrist and hand level, sequela"
+        },
+        {
+            "id": 469,
+            "title": "Prime Cut",
+            "body": "Unspecified fracture of fifth lumbar vertebra, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 470,
+            "title": "Wild in the Country",
+            "body": "Burn of third degree of unspecified scapular region, sequela"
+        },
+        {
+            "id": 471,
+            "title": "Fanfan la Tulipe (Fan-Fan the Tulip)",
+            "body": "Benign neoplasm of connective and other soft tissue of left upper limb, including shoulder"
+        },
+        {
+            "id": 472,
+            "title": "Rollover",
+            "body": "Toxic effect of unspecified halogen derivatives of aliphatic and aromatic hydrocarbons, assault"
+        },
+        {
+            "id": 473,
+            "title": "Out to Sea",
+            "body": "Chorioamnionitis, unspecified trimester, fetus 2"
+        },
+        {
+            "id": 474,
+            "title": "Cranford",
+            "body": "Other fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with delayed healing"
+        },
+        {
+            "id": 475,
+            "title": "Thirteen Women",
+            "body": "Chronic gout due to renal impairment, multiple sites, with tophus (tophi)"
+        },
+        {
+            "id": 476,
+            "title": "Project A ('A' gai waak)",
+            "body": "Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with delusions"
+        },
+        {
+            "id": 477,
+            "title": "Beautiful City (Shah-re ziba)",
+            "body": "Postprocedural hematoma and seroma of an endocrine system organ or structure"
+        },
+        {
+            "id": 478,
+            "title": "Straits of Love and Hate, The (Aien kyo)",
+            "body": "Invasive pulmonary aspergillosis"
+        },
+        {
+            "id": 479,
+            "title": "Othello (Tragedy of Othello: The Moor of Venice, The)",
+            "body": "Unspecified injury of other specified muscles, fascia and tendons at thigh level, unspecified thigh"
+        },
+        {
+            "id": 480,
+            "title": "Sitting Bull",
+            "body": "Laceration of flexor muscle, fascia and tendon of right thumb at forearm level, subsequent encounter"
+        },
+        {
+            "id": 481,
+            "title": "Watermelon Man",
+            "body": "Unspecified open wound of left eyelid and periocular area"
+        },
+        {
+            "id": 482,
+            "title": "G.I. Joe: Operation Dragonfire",
+            "body": "Alveolar maxillary hypoplasia"
+        },
+        {
+            "id": 483,
+            "title": "The Fighting 69th",
+            "body": "Injury of deep peroneal nerve at ankle and foot level, left leg, initial encounter"
+        },
+        {
+            "id": 484,
+            "title": "Happiest Girl in the World, The (Cea mai fericita fata din lume)",
+            "body": "Unspecified mastoiditis, bilateral"
+        },
+        {
+            "id": 485,
+            "title": "Bashu, the Little Stranger (Bashu, gharibeye koochak)",
+            "body": "Other displaced fracture of upper end of left humerus"
+        },
+        {
+            "id": 486,
+            "title": "Powder Room",
+            "body": "Displaced dome fracture of unspecified acetabulum, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 487,
+            "title": "Not on Your Life (Verdugo, El) (Executioner, The)",
+            "body": "Salter-Harris Type III physeal fracture of upper end of left tibia, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 488,
+            "title": "Much Ado About Something",
+            "body": "Contact with liquid air, subsequent encounter"
+        },
+        {
+            "id": 489,
+            "title": "Top Gun",
+            "body": "Injury of ulnar nerve at wrist and hand level of left arm, subsequent encounter"
+        },
+        {
+            "id": 490,
+            "title": "Die Frau des Frisörs",
+            "body": "Pannus (corneal), unspecified eye"
+        },
+        {
+            "id": 491,
+            "title": "Inn of Evil (Inochi bô ni furô)",
+            "body": "Salter-Harris Type I physeal fracture of upper end of radius, unspecified arm, sequela"
+        },
+        {
+            "id": 492,
+            "title": "Criminals",
+            "body": "Other viral enteritis"
+        },
+        {
+            "id": 493,
+            "title": "Late Show, The",
+            "body": "Cocaine dependence with cocaine-induced psychotic disorder with hallucinations"
+        },
+        {
+            "id": 494,
+            "title": "They Died with Their Boots On",
+            "body": "Conviction in civil and criminal proceedings without imprisonment"
+        },
+        {
+            "id": 495,
+            "title": "Whole Town's Talking, The (Passport to Fame)",
+            "body": "Displaced fracture of olecranon process without intraarticular extension of unspecified ulna, subsequent encounter for closed fracture with routine healing"
+        },
+        {
+            "id": 496,
+            "title": "Hate (Haine, La)",
+            "body": "Muscle wasting and atrophy, not elsewhere classified, unspecified hand"
+        },
+        {
+            "id": 497,
+            "title": "Casa de mi Padre",
+            "body": "Unspecified hypertrophy of vulva"
+        },
+        {
+            "id": 498,
+            "title": "Smash-Up: The Story of a Woman",
+            "body": "Other superficial bite of left back wall of thorax, sequela"
+        },
+        {
+            "id": 499,
+            "title": "Hard Corps, The",
+            "body": "Failed medical induction of labor"
+        },
+        {
+            "id": 500,
+            "title": "Gilda",
+            "body": "Passenger of dune buggy injured in nontraffic accident, sequela"
+        },
+        {
+            "id": 501,
+            "title": "Bekännelsen (Confession, The)",
+            "body": "External constriction of nose, subsequent encounter"
+        },
+        {
+            "id": 502,
+            "title": "Storm Over Asia (Potomok Chingis-Khana)",
+            "body": "Contact with nonvenomous toads, sequela"
+        },
+        {
+            "id": 503,
+            "title": "Judas Kiss",
+            "body": "Toxic effect of venom of other venomous lizard, assault, subsequent encounter"
+        },
+        {
+            "id": 504,
+            "title": "Beyond, The (E tu vivrai nel terrore - L'aldilà)",
+            "body": "Other disorders of vitreous body"
+        },
+        {
+            "id": 505,
+            "title": "Eagle vs Shark",
+            "body": "Frostbite with tissue necrosis of left wrist"
+        },
+        {
+            "id": 506,
+            "title": "Red Beret, The",
+            "body": "Toxic effect of venom of brown recluse spider"
+        },
+        {
+            "id": 507,
+            "title": "New Land, The (Nybyggarna)",
+            "body": "Poikiloderma of Civatte"
+        },
+        {
+            "id": 508,
+            "title": "American Strays",
+            "body": "Malignant (primary) neoplasm, unspecified"
+        },
+        {
+            "id": 509,
+            "title": "Tom and Jerry: The Lost Dragon",
+            "body": "Unspecified degenerative and vascular disorders of unspecified ear"
+        },
+        {
+            "id": 510,
+            "title": "Disco Dancer",
+            "body": "Nondisplaced fracture of neck of second metacarpal bone, right hand"
+        },
+        {
+            "id": 511,
+            "title": "Penguins of Madagascar",
+            "body": "Displaced fracture of right radial styloid process, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+        },
+        {
+            "id": 512,
+            "title": "Riders",
+            "body": "Flexion deformity, right elbow"
+        },
+        {
+            "id": 513,
+            "title": "My Favorite Season",
+            "body": "Fracture of one rib, left side, initial encounter for closed fracture"
+        },
+        {
+            "id": 514,
+            "title": "Scenic Route",
+            "body": "Terrorism involving chemical weapons, civilian injured, initial encounter"
+        },
+        {
+            "id": 515,
+            "title": "Illusion Travels by Streetcar (Ilusión viaja en tranvía, La)",
+            "body": "Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting left non-dominant side"
+        },
+        {
+            "id": 516,
+            "title": "Beverly Hills Cop III",
+            "body": "Other nondisplaced fracture of base of first metacarpal bone, left hand, sequela"
+        },
+        {
+            "id": 517,
+            "title": "Curse of the Cat People, The",
+            "body": "Frostbite with tissue necrosis of abdominal wall, lower back and pelvis, initial encounter"
+        },
+        {
+            "id": 518,
+            "title": "First Texan, The",
+            "body": "Puncture wound without foreign body, unspecified foot, initial encounter"
+        },
+        {
+            "id": 519,
+            "title": "Return of the Killer Tomatoes!",
+            "body": "Incomplete atypical femoral fracture, right leg"
+        },
+        {
+            "id": 520,
+            "title": "Miss Potter",
+            "body": "Nondisplaced comminuted fracture of shaft of ulna, right arm, subsequent encounter for closed fracture with nonunion"
+        },
+        {
+            "id": 521,
+            "title": "Padrecito, El (Little Priest)",
+            "body": "Posterior displaced fracture of sternal end of unspecified clavicle, initial encounter for open fracture"
+        },
+        {
+            "id": 522,
+            "title": "Advise and Consent",
+            "body": "Laceration with foreign body of unspecified part of thorax, sequela"
+        },
+        {
+            "id": 523,
+            "title": "Heaven",
+            "body": "Unspecified injury of lung, unilateral, subsequent encounter"
+        },
+        {
+            "id": 524,
+            "title": "Redacted",
+            "body": "Pathological fracture, unspecified site, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 525,
+            "title": "Secret Society",
+            "body": "Other injury of other muscles, fascia and tendons at forearm level, left arm, sequela"
+        },
+        {
+            "id": 526,
+            "title": "Weekend at Bernie's II",
+            "body": "Poisoning by penicillins, intentional self-harm, subsequent encounter"
+        },
+        {
+            "id": 527,
+            "title": "Infernal Affairs III (Mou gaan dou III: Jung gik mou gaan)",
+            "body": "Injury of cutaneous sensory nerve at lower leg level, unspecified leg"
+        },
+        {
+            "id": 528,
+            "title": "Clan of the Cave Bear, The",
+            "body": "Person on outside of bus injured in collision with two- or three-wheeled motor vehicle in traffic accident, initial encounter"
+        },
+        {
+            "id": 529,
+            "title": "Spy Kids 3-D: Game Over",
+            "body": "Burn of third degree of right lower leg, initial encounter"
+        },
+        {
+            "id": 530,
+            "title": "Northwest",
+            "body": "Nondisplaced segmental fracture of shaft of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+        },
+        {
+            "id": 531,
+            "title": "Grandfather, The (Abuelo, El)",
+            "body": "War operations involving explosion of aerial bomb, civilian"
+        },
+        {
+            "id": 532,
+            "title": "Zookeeper",
+            "body": "Toxic effect of chloroform, accidental (unintentional), sequela"
+        },
+        {
+            "id": 533,
+            "title": "Mr Hockey The Gordie Howe Story",
+            "body": "Infective myositis, left forearm"
+        },
+        {
+            "id": 534,
+            "title": "Dragon Ball Z: Bardock - The Father of Goku (Doragon bôru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi)",
+            "body": "Neuronal ceroid lipofuscinosis"
+        },
+        {
+            "id": 535,
+            "title": "Assassin(s)",
+            "body": "Cocaine use, unspecified with cocaine-induced psychotic disorder with hallucinations"
+        },
+        {
+            "id": 536,
+            "title": "Lawless Range",
+            "body": "Obstructed labor due to other malposition and malpresentation, fetus 2"
+        },
+        {
+            "id": 537,
+            "title": "Nativity 2: Danger in the Manger!",
+            "body": "Displaced fracture of neck of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 538,
+            "title": "Japanese Summer: Double Suicide (Muri shinjû: Nihon no natsu)",
+            "body": "Irregular astigmatism, right eye"
+        },
+        {
+            "id": 539,
+            "title": "Crimetime",
+            "body": "Pressure ulcer of unspecified part of back, stage 2"
+        },
+        {
+            "id": 540,
+            "title": "For Love of Ivy",
+            "body": "Complete traumatic transphalangeal amputation of right little finger, initial encounter"
+        },
+        {
+            "id": 541,
+            "title": "The Man Who Loved Yngve",
+            "body": "Superior glenoid labrum lesion of right shoulder, subsequent encounter"
+        },
+        {
+            "id": 542,
+            "title": "Waterloo Bridge",
+            "body": "Displaced apophyseal fracture of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 543,
+            "title": "Club, The",
+            "body": "Subluxation of metacarpophalangeal joint of unspecified thumb, sequela"
+        },
+        {
+            "id": 544,
+            "title": "Uncle Nino",
+            "body": "Asphyxiation due to being trapped in a (discarded) refrigerator, undetermined, sequela"
+        },
+        {
+            "id": 545,
+            "title": "Pleasure of Being Robbed, The",
+            "body": "Nondisplaced fracture of body of hamate [unciform] bone, left wrist, initial encounter for open fracture"
+        },
+        {
+            "id": 546,
+            "title": "Ghost",
+            "body": "Salmonella pneumonia"
+        },
+        {
+            "id": 547,
+            "title": "Religulous",
+            "body": "Major depressive disorder, recurrent, unspecified"
+        },
+        {
+            "id": 548,
+            "title": "Whales of August, The",
+            "body": "Burn of unspecified degree of abdominal wall, initial encounter"
+        },
+        {
+            "id": 549,
+            "title": "Crush",
+            "body": "Contusion of other part of small intestine, initial encounter"
+        },
+        {
+            "id": 550,
+            "title": "Regeneration",
+            "body": "Basal cell carcinoma of skin of scalp and neck"
+        },
+        {
+            "id": 551,
+            "title": "Trouble in Paradise",
+            "body": "Puncture wound without foreign body of right elbow, initial encounter"
+        },
+        {
+            "id": 552,
+            "title": "Turbo",
+            "body": "Nondisplaced fracture of left radial styloid process, subsequent encounter for open fracture type I or II with malunion"
+        },
+        {
+            "id": 553,
+            "title": "Science of Sleep, The (La science des rêves)",
+            "body": "Fall into swimming pool striking wall causing drowning and submersion, subsequent encounter"
+        },
+        {
+            "id": 554,
+            "title": "Legalese",
+            "body": "Nondisplaced fracture of lateral malleolus of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+        },
+        {
+            "id": 555,
+            "title": "The Hire: Star, The",
+            "body": "Displaced trimalleolar fracture of left lower leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+        },
+        {
+            "id": 556,
+            "title": "Skenbart: En film om tåg",
+            "body": "Unspecified injury of extensor muscle, fascia and tendon of right little finger at wrist and hand level, subsequent encounter"
+        },
+        {
+            "id": 557,
+            "title": "Welcome to New York",
+            "body": "Nondisplaced transverse fracture of shaft of unspecified femur, subsequent encounter for open fracture type I or II with routine healing"
+        },
+        {
+            "id": 558,
+            "title": "Persepolis",
+            "body": "Traumatic amputation of other parts of head"
+        },
+        {
+            "id": 559,
+            "title": "Gayniggers From Outer Space",
+            "body": "Encounter for initial prescription of injectable contraceptive"
+        },
+        {
+            "id": 560,
+            "title": "Uncovered",
+            "body": "Poisoning by ophthalmological drugs and preparations, undetermined, sequela"
+        },
+        {
+            "id": 561,
+            "title": "Callas Forever",
+            "body": "Accessory lobe of lung"
+        },
+        {
+            "id": 562,
+            "title": "Breaking and Entering",
+            "body": "Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+        },
+        {
+            "id": 563,
+            "title": "Into the Blue 2: The Reef",
+            "body": "Laceration with foreign body of unspecified thumb without damage to nail, sequela"
+        },
+        {
+            "id": 564,
+            "title": "Uninvited Guest",
+            "body": "Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, initial encounter"
+        },
+        {
+            "id": 565,
+            "title": "Wake Wood ",
+            "body": "Toxic effect of unspecified corrosive substance, assault, subsequent encounter"
+        },
+        {
+            "id": 566,
+            "title": "Set It Off",
+            "body": "Ischiocapsular ligament sprain of unspecified hip, initial encounter"
+        },
+        {
+            "id": 567,
+            "title": "Rickshaw Man, The (Muhomatsu no issho)",
+            "body": "Strain of other muscles, fascia and tendons at forearm level, left arm, initial encounter"
+        },
+        {
+            "id": 568,
+            "title": "Skipped Parts",
+            "body": "Displaced oblique fracture of shaft of humerus, unspecified arm, sequela"
+        },
+        {
+            "id": 569,
+            "title": "Last Supper, The",
+            "body": "Salter-Harris Type IV physeal fracture of upper end of unspecified tibia, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 570,
+            "title": "Invasion, The",
+            "body": "Unspecified pedal cyclist injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter"
+        },
+        {
+            "id": 571,
+            "title": "Temptation (Tentação)",
+            "body": "Other congenital malformations of aortic and mitral valves"
+        },
+        {
+            "id": 572,
+            "title": "Ghost and the Darkness, The",
+            "body": "Herpesviral infection of penis"
+        },
+        {
+            "id": 573,
+            "title": "Stranger Within, The",
+            "body": "Torus fracture of upper end of unspecified fibula, sequela"
+        },
+        {
+            "id": 574,
+            "title": "Children of the Corn V: Fields of Terror",
+            "body": "Poisoning by macrolides, intentional self-harm, sequela"
+        },
+        {
+            "id": 575,
+            "title": "All the Right Moves",
+            "body": "Laceration with foreign body of right front wall of thorax without penetration into thoracic cavity, initial encounter"
+        },
+        {
+            "id": 576,
+            "title": "Guendalina",
+            "body": "Juvenile osteochondrosis of spine, occipito-atlanto-axial region"
+        },
+        {
+            "id": 577,
+            "title": "Norma Jean & Marilyn",
+            "body": "Unspecified injury of ovary, unilateral, initial encounter"
+        },
+        {
+            "id": 578,
+            "title": "Machine Girl, The (Kataude mashin gâru)",
+            "body": "Laceration of adductor muscle, fascia and tendon of unspecified thigh, subsequent encounter"
+        },
+        {
+            "id": 579,
+            "title": "Around the World in 80 Days",
+            "body": "Nephropathy induced by heavy metals"
+        },
+        {
+            "id": 580,
+            "title": "Riders of Destiny",
+            "body": "Transient synovitis, wrist"
+        },
+        {
+            "id": 581,
+            "title": "People Like Us",
+            "body": "Displaced fracture of greater trochanter of right femur, sequela"
+        },
+        {
+            "id": 582,
+            "title": "Daydream Nation",
+            "body": "Unspecified injury of other blood vessels of thorax, left side, initial encounter"
+        },
+        {
+            "id": 583,
+            "title": "Broken Kingdom",
+            "body": "Inhalant abuse with intoxication delirium"
+        },
+        {
+            "id": 584,
+            "title": "Song of the South",
+            "body": "Injury of nerve root of cervical spine, initial encounter"
+        },
+        {
+            "id": 585,
+            "title": "Head Over Heels (De Pernas pro Ar)",
+            "body": "Poisoning by barbiturates, accidental (unintentional), initial encounter"
+        },
+        {
+            "id": 586,
+            "title": "Girl 6",
+            "body": "Grey baby syndrome"
+        },
+        {
+            "id": 587,
+            "title": "Birdemic: Shock and Terror",
+            "body": "Subway car as the place of occurrence of the external cause"
+        },
+        {
+            "id": 588,
+            "title": "Sister Act 2: Back in the Habit",
+            "body": "Salter-Harris Type III physeal fracture of right calcaneus, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 589,
+            "title": "Expendables 3, The",
+            "body": "Unspecified open wound of unspecified cheek and temporomandibular area"
+        },
+        {
+            "id": 590,
+            "title": "Last Days of Pompeii, The (Gli ultimi giorni di Pompeii)",
+            "body": "Allergy status to drugs, medicaments and biological substances"
+        },
+        {
+            "id": 591,
+            "title": "The Adventures of Tartu",
+            "body": "Assault by other and unspecified firearm and gun discharge"
+        },
+        {
+            "id": 592,
+            "title": "Of Time and the City",
+            "body": "Salter-Harris Type I physeal fracture of upper end of left tibia, sequela"
+        },
+        {
+            "id": 593,
+            "title": "L.A. Confidential",
+            "body": "Rheumatoid nodule, right knee"
+        },
+        {
+            "id": 594,
+            "title": "Fire Over England",
+            "body": "Displaced fracture of proximal phalanx of right middle finger, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 595,
+            "title": "Man at Bath (Homme au bain)",
+            "body": "Poisoning by other parasympathomimetics [cholinergics], intentional self-harm, subsequent encounter"
+        },
+        {
+            "id": 596,
+            "title": "Ay, Carmela! (¡Ay, Carmela!)",
+            "body": "Unspecified injury of left internal jugular vein, initial encounter"
+        },
+        {
+            "id": 597,
+            "title": "Satan Never Sleeps",
+            "body": "Other specified fracture of right acetabulum, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 598,
+            "title": "Disaster L.A.",
+            "body": "Pathological fracture in other disease, right tibia, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 599,
+            "title": "Night of the Living Dorks",
+            "body": "Superficial frostbite of other sites, initial encounter"
+        },
+        {
+            "id": 600,
+            "title": "Hecho en México",
+            "body": "Laceration of other part of small intestine"
+        },
+        {
+            "id": 601,
+            "title": "Men Without Women",
+            "body": "Spina bifida occulta"
+        },
+        {
+            "id": 602,
+            "title": "Father of My Children, The (Le père de mes enfants)",
+            "body": "Displaced fracture of proximal third of navicular [scaphoid] bone of right wrist, initial encounter for open fracture"
+        },
+        {
+            "id": 603,
+            "title": "Lassie Come Home",
+            "body": "Poisoning by mixed antiepileptics, intentional self-harm, subsequent encounter"
+        },
+        {
+            "id": 604,
+            "title": "Desert Winds",
+            "body": "Salter-Harris Type III physeal fracture of right metatarsal, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 605,
+            "title": "That Cold Day in the Park",
+            "body": "Other injury of muscle, fascia and tendon of triceps, left arm, sequela"
+        },
+        {
+            "id": 606,
+            "title": "Empire of the Sun",
+            "body": "Poisoning by other agents primarily acting on the respiratory system, accidental (unintentional), subsequent encounter"
+        },
+        {
+            "id": 607,
+            "title": "Human Factor, The",
+            "body": "Other incomplete lesion at C4 level of cervical spinal cord"
+        },
+        {
+            "id": 608,
+            "title": "Babyfever",
+            "body": "Other specified injuries of pharynx and cervical esophagus, initial encounter"
+        },
+        {
+            "id": 609,
+            "title": "In Hell",
+            "body": "Motorcycle driver injured in collision with railway train or railway vehicle in nontraffic accident, sequela"
+        },
+        {
+            "id": 610,
+            "title": "For Your Eyes Only",
+            "body": "Sepsis of newborn due to other streptococci"
+        },
+        {
+            "id": 611,
+            "title": "Love Sick Love",
+            "body": "Injury of cutaneous sensory nerve at shoulder and upper arm level"
+        },
+        {
+            "id": 612,
+            "title": "Standby",
+            "body": "Nonrheumatic mitral valve disorder, unspecified"
+        },
+        {
+            "id": 613,
+            "title": "JFK: The Smoking Gun",
+            "body": "Other specified injury of other specified blood vessels at shoulder and upper arm level, left arm, subsequent encounter"
+        },
+        {
+            "id": 614,
+            "title": "Dirty Dancing: Havana Nights",
+            "body": "Nondisplaced fracture of coronoid process of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+        },
+        {
+            "id": 615,
+            "title": "Offspring ",
+            "body": "Corrosions involving 90% or more of body surface"
+        },
+        {
+            "id": 616,
+            "title": "Tin Cup",
+            "body": "Nondisplaced longitudinal fracture of left patella, subsequent encounter for closed fracture with malunion"
+        },
+        {
+            "id": 617,
+            "title": "Uncle Marin, the Billionaire (Nea Marin miliardar) (Uncle Martin, the Multimillionaire)",
+            "body": "Total traumatic cataract, left eye"
+        },
+        {
+            "id": 618,
+            "title": "Big Bang, The",
+            "body": "Corrosion of unspecified degree of right knee, sequela"
+        },
+        {
+            "id": 619,
+            "title": "Small Time Crooks",
+            "body": "Traumatic rupture of other ligament of left middle finger at metacarpophalangeal and interphalangeal joint, sequela"
+        },
+        {
+            "id": 620,
+            "title": "Business as Usual",
+            "body": "Corrosion of second degree of multiple left fingers (nail), not including thumb, initial encounter"
+        },
+        {
+            "id": 621,
+            "title": "Incendies",
+            "body": "Squamous blepharitis left eye, unspecified eyelid"
+        },
+        {
+            "id": 622,
+            "title": "Ghost Goes West, The",
+            "body": "Capsular glaucoma with pseudoexfoliation of lens, unspecified eye, severe stage"
+        },
+        {
+            "id": 623,
+            "title": "Tigger Movie, The",
+            "body": "Partial traumatic amputation of left shoulder and upper arm, level unspecified, subsequent encounter"
+        },
+        {
+            "id": 624,
+            "title": "Pope Joan (Die Päpstin)",
+            "body": "Laceration of right quadriceps muscle, fascia and tendon"
+        },
+        {
+            "id": 625,
+            "title": "Full Moon in Paris (Les nuits de la pleine lune)",
+            "body": "Other specified disorders of right ear"
+        },
+        {
+            "id": 626,
+            "title": "Cherry Tree Lane",
+            "body": "Hepatitis A with hepatic coma"
+        },
+        {
+            "id": 627,
+            "title": "Comancheros, The",
+            "body": "Displaced oblique fracture of shaft of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 628,
+            "title": "Rimini, Rimini: A Year Later",
+            "body": "Displaced segmental fracture of shaft of humerus, left arm, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 629,
+            "title": "Aladdin",
+            "body": "Severe persistent asthma"
+        },
+        {
+            "id": 630,
+            "title": "Chicago",
+            "body": "Maternal care for abnormality of pelvic organ, unspecified"
+        },
+        {
+            "id": 631,
+            "title": "Sergeant York",
+            "body": "Nondisplaced segmental fracture of shaft of ulna, right arm, sequela"
+        },
+        {
+            "id": 632,
+            "title": "Deathdream (a.k.a. Dead of Night)",
+            "body": "Nondisplaced transverse fracture of shaft of unspecified femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+        },
+        {
+            "id": 633,
+            "title": "Private Life of Sherlock Holmes, The",
+            "body": "Other specified injuries of pharynx and cervical esophagus"
+        },
+        {
+            "id": 634,
+            "title": "Deep Water",
+            "body": "Malignant neoplasm of unspecified optic nerve"
+        },
+        {
+            "id": 635,
+            "title": "Buck Privates",
+            "body": "Injury of axillary nerve, unspecified arm, sequela"
+        },
+        {
+            "id": 636,
+            "title": "XX/XY",
+            "body": "Displaced unspecified condyle fracture of lower end of left femur, subsequent encounter for closed fracture with routine healing"
+        },
+        {
+            "id": 637,
+            "title": "Carrie",
+            "body": "Displaced spiral fracture of shaft of humerus, left arm, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 638,
+            "title": "Silences of the Palace, The (Saimt el Qusur)",
+            "body": "Recurrent cholesteatoma of postmastoidectomy cavity, left ear"
+        },
+        {
+            "id": 639,
+            "title": "Witnesses, The (Les témoins)",
+            "body": "Nonpurulent mastitis associated with pregnancy, the puerperium and lactation"
+        },
+        {
+            "id": 640,
+            "title": "Legend of the Lone Ranger, The",
+            "body": "Legal intervention involving injury by rubber bullet, bystander injured, subsequent encounter"
+        },
+        {
+            "id": 641,
+            "title": "Tao of Steve, The",
+            "body": "Other sprain of left little finger"
+        },
+        {
+            "id": 642,
+            "title": "Klute",
+            "body": "Osteochondritis dissecans, right elbow"
+        },
+        {
+            "id": 643,
+            "title": "Story of a Love Affair (Cronaca di un amore)",
+            "body": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+            "id": 644,
+            "title": "The War at Home",
+            "body": "Corrosion of third degree of right axilla, sequela"
+        },
+        {
+            "id": 645,
+            "title": "Carne de gallina (Chicken Skin)",
+            "body": "Other contact with other rodent, initial encounter"
+        },
+        {
+            "id": 646,
+            "title": "Countdown to Zero",
+            "body": "Unspecified car occupant injured in collision with pick-up truck in nontraffic accident"
+        },
+        {
+            "id": 647,
+            "title": "Rock the Boat",
+            "body": "Age-related osteoporosis with current pathological fracture, left shoulder, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 648,
+            "title": "Gorgon, The",
+            "body": "Laceration of lesser saphenous vein at lower leg level, right leg, subsequent encounter"
+        },
+        {
+            "id": 649,
+            "title": "Yes: 9012 Live",
+            "body": "Twin liveborn infant, born outside hospital"
+        },
+        {
+            "id": 650,
+            "title": "Hard Core Logo",
+            "body": "Other specified disorders of tendon, left wrist"
+        },
+        {
+            "id": 651,
+            "title": "Middle of Nowhere",
+            "body": "Minor laceration of vertebral artery"
+        },
+        {
+            "id": 652,
+            "title": "Boogie Woogie",
+            "body": "Displaced fracture of proximal phalanx of left ring finger, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 653,
+            "title": "Point Blank",
+            "body": "Breakdown (mechanical) of implanted electronic neurostimulator of peripheral nerve electrode (lead), initial encounter"
+        },
+        {
+            "id": 654,
+            "title": "Woody Allen: A Documentary",
+            "body": "Legal intervention, means unspecified, suspect injured"
+        },
+        {
+            "id": 655,
+            "title": "Keith",
+            "body": "Occupant of railway train or railway vehicle injured due to other specified railway accident, subsequent encounter"
+        },
+        {
+            "id": 656,
+            "title": "You're Telling Me!",
+            "body": "Toxic effect of venom of other Australian snake, undetermined"
+        },
+        {
+            "id": 657,
+            "title": "The Snow White Murder Case",
+            "body": "Puncture wound without foreign body of left great toe without damage to nail, sequela"
+        },
+        {
+            "id": 658,
+            "title": "Romeo and Juliet",
+            "body": "Unspecified injury of unspecified muscles, fascia and tendons at forearm level, left arm, subsequent encounter"
+        },
+        {
+            "id": 659,
+            "title": "Naked",
+            "body": "Salter-Harris Type II physeal fracture of lower end of radius, unspecified arm, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 660,
+            "title": "Shadows (Cienie)",
+            "body": "Contusion of thigh"
+        },
+        {
+            "id": 661,
+            "title": "International, The",
+            "body": "Other specified injury of extensor muscle, fascia and tendon of unspecified thumb at wrist and hand level, subsequent encounter"
+        },
+        {
+            "id": 662,
+            "title": "Trou, Le (Hole, The) (Night Watch, The)",
+            "body": "Dislocation of distal interphalangeal joint of left ring finger, initial encounter"
+        },
+        {
+            "id": 663,
+            "title": "Breaker! Breaker!",
+            "body": "Other disorders of continuity of bone, ulna and radius"
+        },
+        {
+            "id": 664,
+            "title": "Judy Moody and the Not Bummer Summer",
+            "body": "Burn of first degree of right wrist, subsequent encounter"
+        },
+        {
+            "id": 665,
+            "title": "Naked Harbour (Vuosaari)",
+            "body": "Corrosion of first degree of multiple left fingers (nail), not including thumb, initial encounter"
+        },
+        {
+            "id": 666,
+            "title": "Springsteen & I",
+            "body": "Idiopathic aseptic necrosis of left foot"
+        },
+        {
+            "id": 667,
+            "title": "AmeriQua",
+            "body": "Meningococcemia, unspecified"
+        },
+        {
+            "id": 668,
+            "title": "Godzilla and Mothra: The Battle for Earth (Gojira vs. Mosura)",
+            "body": "Family history of other diseases of the respiratory system"
+        },
+        {
+            "id": 669,
+            "title": "Beans of Egypt, Maine, The",
+            "body": "Salter-Harris Type II physeal fracture of unspecified metatarsal, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 670,
+            "title": "Good Wife, The",
+            "body": "Superficial foreign body, right foot, initial encounter"
+        },
+        {
+            "id": 671,
+            "title": "Children of Leningradsky, The",
+            "body": "Insomnia"
+        },
+        {
+            "id": 672,
+            "title": "Dancer in the Dark",
+            "body": "Pulmonary infundibular stenosis"
+        },
+        {
+            "id": 673,
+            "title": "Holiday for Drumsticks",
+            "body": "Toxic effect of cadmium and its compounds, intentional self-harm, initial encounter"
+        },
+        {
+            "id": 674,
+            "title": "MacGyver: Trail to Doomsday",
+            "body": "Disorder of the autonomic nervous system, unspecified"
+        },
+        {
+            "id": 675,
+            "title": "Pink Cadillac",
+            "body": "Injury of other nerves at shoulder and upper arm level, left arm"
+        },
+        {
+            "id": 676,
+            "title": "Promised Land (Ziemia Obiecana)",
+            "body": "Malignant neoplasm of overlapping sites of nasopharynx"
+        },
+        {
+            "id": 677,
+            "title": "Corruption (a.k.a. Carnage)",
+            "body": "Adjustment disorder with mixed anxiety and depressed mood"
+        },
+        {
+            "id": 678,
+            "title": "I'm Crazy About Iris Blond",
+            "body": "Arthropathy following intestinal bypass, left wrist"
+        },
+        {
+            "id": 679,
+            "title": "Assault, The (Aanslag, De)",
+            "body": "Laceration of adductor muscle, fascia and tendon of right thigh, sequela"
+        },
+        {
+            "id": 680,
+            "title": "Men to Kiss",
+            "body": "Pre-existing type 1 diabetes mellitus, in the puerperium"
+        },
+        {
+            "id": 681,
+            "title": "Grand Hotel",
+            "body": "Partial traumatic amputation of unspecified lower leg, level unspecified, initial encounter"
+        },
+        {
+            "id": 682,
+            "title": "Brain That Wouldn't Die, The",
+            "body": "Laceration of extensor muscle, fascia and tendon of left middle finger at wrist and hand level"
+        },
+        {
+            "id": 683,
+            "title": "Littlest Rebel, The",
+            "body": "Poisoning by unspecified psychotropic drug, undetermined, initial encounter"
+        },
+        {
+            "id": 684,
+            "title": "Love in the Time of Hysteria (Sólo con tu pareja)",
+            "body": "Fracture of unspecified part of neck of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 685,
+            "title": "Blondie of the Follies",
+            "body": "Insect bite (nonvenomous), left ankle, subsequent encounter"
+        },
+        {
+            "id": 686,
+            "title": "Boys",
+            "body": "Maternal care for known or suspected placental insufficiency, third trimester, not applicable or unspecified"
+        },
+        {
+            "id": 687,
+            "title": "Outsourced",
+            "body": "Accidental discharge of machine gun"
+        },
+        {
+            "id": 688,
+            "title": "As Luck Would Have It (Chispa de la vida, La)",
+            "body": "Assault by strike by hockey stick, subsequent encounter"
+        },
+        {
+            "id": 689,
+            "title": "Emperor Jones, The",
+            "body": "Dislocation of midcarpal joint of unspecified wrist, initial encounter"
+        },
+        {
+            "id": 690,
+            "title": "Casanova's Big Night",
+            "body": "Neoplasm of uncertain behavior of breast"
+        },
+        {
+            "id": 691,
+            "title": "Arcade",
+            "body": "Salter-Harris Type II physeal fracture of left calcaneus, sequela"
+        },
+        {
+            "id": 692,
+            "title": "Ants in the Pants 2",
+            "body": "Contusion and laceration of cerebrum, unspecified"
+        },
+        {
+            "id": 693,
+            "title": "Man, The",
+            "body": "Erosion of implanted vaginal mesh to surrounding organ or tissue, initial encounter"
+        },
+        {
+            "id": 694,
+            "title": "High Noon",
+            "body": "Poisoning by, adverse effect of and underdosing of ophthalmological drugs and preparations"
+        },
+        {
+            "id": 695,
+            "title": "Ator, the Fighting Eagle (Ator l'invincibile)",
+            "body": "Maternal care for (suspected) damage to fetus by drugs, fetus 4"
+        },
+        {
+            "id": 696,
+            "title": "Under the Skin",
+            "body": "Burn of internal genitourinary organs, initial encounter"
+        },
+        {
+            "id": 697,
+            "title": "Born American",
+            "body": "Salter-Harris Type III physeal fracture of left  metatarsal, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 698,
+            "title": "Disaster L.A.",
+            "body": "Diseases of the respiratory system complicating pregnancy"
+        },
+        {
+            "id": 699,
+            "title": "Fingers",
+            "body": "Puncture wound without foreign body, unspecified foot, subsequent encounter"
+        },
+        {
+            "id": 700,
+            "title": "Peculiarities of the National Hunt (Osobennosti natsionalnoy okhoty) ",
+            "body": "Nondisplaced fracture (avulsion) of medial epicondyle of right humerus, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 701,
+            "title": "Newsies",
+            "body": "Accidental discharge of airgun"
+        },
+        {
+            "id": 702,
+            "title": "Gangster No. 1",
+            "body": "Unspecified fracture of lower end of unspecified tibia, subsequent encounter for open fracture type I or II with routine healing"
+        },
+        {
+            "id": 703,
+            "title": "Satisfaction (a.k.a. Girls of Summer)",
+            "body": "Antepartum hemorrhage with other coagulation defect, first trimester"
+        },
+        {
+            "id": 704,
+            "title": "Bandidas",
+            "body": "Pain in unspecified toe(s)"
+        },
+        {
+            "id": 705,
+            "title": "Patterns",
+            "body": "Assault by other larger firearm discharge, sequela"
+        },
+        {
+            "id": 706,
+            "title": "Confessions of a Shopaholic",
+            "body": "Displaced fracture of neck of third metacarpal bone, left hand, initial encounter for open fracture"
+        },
+        {
+            "id": 707,
+            "title": "Underground",
+            "body": "Corrosion of unspecified degree of right knee"
+        },
+        {
+            "id": 708,
+            "title": "Haunted Honeymoon",
+            "body": "Unspecified motorcycle rider injured in collision with pedal cycle in traffic accident, initial encounter"
+        },
+        {
+            "id": 709,
+            "title": "To Die For",
+            "body": "Periarthritis, left wrist"
+        },
+        {
+            "id": 710,
+            "title": "Moving Out",
+            "body": "Nondisplaced comminuted fracture of shaft of right femur, subsequent encounter for closed fracture with nonunion"
+        },
+        {
+            "id": 711,
+            "title": "Prairie Love",
+            "body": "Other burn on board sailboat, initial encounter"
+        },
+        {
+            "id": 712,
+            "title": "Tale of Ham and Passion, A (Jamón, Jamón)",
+            "body": "Toxic effect of unspecified noxious substance eaten as food, assault"
+        },
+        {
+            "id": 713,
+            "title": "Eloise at Christmastime",
+            "body": "Unspecified open wound of right middle finger without damage to nail"
+        },
+        {
+            "id": 714,
+            "title": "American Ninja 3: Blood Hunt",
+            "body": "Poisoning by angiotensin-converting-enzyme inhibitors, undetermined, sequela"
+        },
+        {
+            "id": 715,
+            "title": "Jim Norton: Please Be Offended",
+            "body": "Other fracture of occiput, left side, initial encounter for open fracture"
+        },
+        {
+            "id": 716,
+            "title": "Being Julia",
+            "body": "Displaced fracture of lunate [semilunar], unspecified wrist"
+        },
+        {
+            "id": 717,
+            "title": "Big Fix, The",
+            "body": "Underdosing of selective serotonin reuptake inhibitors"
+        },
+        {
+            "id": 718,
+            "title": "Battleship",
+            "body": "Nondisplaced intertrochanteric fracture of left femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+        },
+        {
+            "id": 719,
+            "title": "Coming Home",
+            "body": "Nondisplaced fracture of neck of fifth metacarpal bone, right hand, initial encounter for open fracture"
+        },
+        {
+            "id": 720,
+            "title": "Clubland (a.k.a. Introducing the Dwights)",
+            "body": "Bloodstream infection due to central venous catheter, sequela"
+        },
+        {
+            "id": 721,
+            "title": "Cheaper by the Dozen",
+            "body": "Poisoning by other psychotropic drugs, intentional self-harm, sequela"
+        },
+        {
+            "id": 722,
+            "title": "Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues",
+            "body": "Nondisplaced fracture of lower epiphysis (separation) of unspecified femur, subsequent encounter for open fracture type I or II with nonunion"
+        },
+        {
+            "id": 723,
+            "title": "Lonesome",
+            "body": "Displaced oblique fracture of shaft of humerus, right arm, initial encounter for closed fracture"
+        },
+        {
+            "id": 724,
+            "title": "White Chicks",
+            "body": "Displaced fracture of epiphysis (separation) (upper) of unspecified femur, subsequent encounter for closed fracture with routine healing"
+        },
+        {
+            "id": 725,
+            "title": "Highlander",
+            "body": "Other specified types of non-Hodgkin lymphoma, spleen"
+        },
+        {
+            "id": 726,
+            "title": "Rope",
+            "body": "Tropical sprue"
+        },
+        {
+            "id": 727,
+            "title": "The Mountain of the Cannibal God",
+            "body": "Other physeal fracture of upper end of humerus, unspecified arm, subsequent encounter for fracture with malunion"
+        },
+        {
+            "id": 728,
+            "title": "Gambling City",
+            "body": "Puncture wound without foreign body of lip, sequela"
+        },
+        {
+            "id": 729,
+            "title": "Intolerable Cruelty",
+            "body": "Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester"
+        },
+        {
+            "id": 730,
+            "title": "Gone Fishin'",
+            "body": "Acute posterior multifocal placoid pigment epitheliopathy"
+        },
+        {
+            "id": 731,
+            "title": "Wild, The",
+            "body": "Salter-Harris Type IV physeal fracture of unspecified calcaneus, initial encounter for closed fracture"
+        },
+        {
+            "id": 732,
+            "title": "Hercules and the Circle of Fire",
+            "body": "Nondisplaced oblique fracture of shaft of humerus, right arm, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 733,
+            "title": "Dealin' with Idiots",
+            "body": "Abscess of tendon sheath, right thigh"
+        },
+        {
+            "id": 734,
+            "title": "Super Rich: The Greed Game",
+            "body": "Unspecified open wound of abdominal wall, left upper quadrant with penetration into peritoneal cavity"
+        },
+        {
+            "id": 735,
+            "title": "Hudson Hawk",
+            "body": "Unspecified injury of femoral artery, right leg, subsequent encounter"
+        },
+        {
+            "id": 736,
+            "title": "Lady Killer",
+            "body": "Other specified injury of unspecified blood vessel at lower leg level, left leg, subsequent encounter"
+        },
+        {
+            "id": 737,
+            "title": "Mirror, The (Ayneh)",
+            "body": "Traumatic rupture of collateral ligament of left wrist, subsequent encounter"
+        },
+        {
+            "id": 738,
+            "title": "Tale of Princess Kaguya, The (Kaguyahime no monogatari)",
+            "body": "Other specified injury of other specified muscles and tendons at ankle and foot level, left foot, sequela"
+        },
+        {
+            "id": 739,
+            "title": "Silver Chalice, The",
+            "body": "Complete traumatic amputation of right ear, subsequent encounter"
+        },
+        {
+            "id": 740,
+            "title": "Manufactured Landscapes",
+            "body": "Displaced fracture of lower epiphysis (separation) of right femur, subsequent encounter for closed fracture with routine healing"
+        },
+        {
+            "id": 741,
+            "title": "Darby's Rangers",
+            "body": "Corrosion of second degree of unspecified elbow, sequela"
+        },
+        {
+            "id": 742,
+            "title": "Love and Pain and the Whole Damn Thing",
+            "body": "Newborn affected by intrauterine (fetal) blood loss from placenta"
+        },
+        {
+            "id": 743,
+            "title": "Good Day to Die Hard, A",
+            "body": "Minor laceration of left innominate or subclavian vein, sequela"
+        },
+        {
+            "id": 744,
+            "title": "Seinto Seiya: Legend of Sanctuary (Seinto Seiya: Legend of Sanctuary)",
+            "body": "Benign neoplasm of pancreas"
+        },
+        {
+            "id": 745,
+            "title": "False Trail (Jägarna 2)",
+            "body": "Nondisplaced fracture of lunate [semilunar], unspecified wrist, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 746,
+            "title": "Planet of the Vampires (Terrore nello spazio)",
+            "body": "Personal history of abuse in childhood"
+        },
+        {
+            "id": 747,
+            "title": "Alive Day Memories: Home from Iraq (Occupation Iraq)",
+            "body": "Unspecified fracture of the lower end of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+        },
+        {
+            "id": 748,
+            "title": "Emerald Cowboy",
+            "body": "Burn of first degree of multiple sites of right wrist and hand"
+        },
+        {
+            "id": 749,
+            "title": "Everybody's Got Somebody... Not Me",
+            "body": "Nondisplaced comminuted fracture of shaft of right tibia, subsequent encounter for open fracture type I or II with nonunion"
+        },
+        {
+            "id": 750,
+            "title": "O Auto da Compadecida (Dog's Will, A)",
+            "body": "Gestational [pregnancy-induced] hypertension without significant proteinuria, second trimester"
+        },
+        {
+            "id": 751,
+            "title": "Art of Flight, The",
+            "body": "Bent bone of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+        },
+        {
+            "id": 752,
+            "title": "Great Happiness Space, The: Tale of an Osaka Love Thief",
+            "body": "Laceration without foreign body of left lesser toe(s) without damage to nail, sequela"
+        },
+        {
+            "id": 753,
+            "title": "Twin Sisters (De tweeling)",
+            "body": "Unspecified disorder of ear, bilateral"
+        },
+        {
+            "id": 754,
+            "title": "Autumn Afternoon, An (Sanma no aji)",
+            "body": "Military operations involving destruction of aircraft due to collision with other aircraft, military personnel, sequela"
+        },
+        {
+            "id": 755,
+            "title": "Any Number Can Play",
+            "body": "Displaced fracture of lateral condyle of right humerus, initial encounter for open fracture"
+        },
+        {
+            "id": 756,
+            "title": "Common Thread, A (a.k.a. Sequins) (Brodeuses)",
+            "body": "Displaced fracture of epiphysis (separation) (upper) of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 757,
+            "title": "State Fair",
+            "body": "Military operations involving explosion of torpedo, civilian, subsequent encounter"
+        },
+        {
+            "id": 758,
+            "title": "Lady in White (a.k.a. The Mystery of the Lady in White)",
+            "body": "Corrosion of first degree of back of left hand, initial encounter"
+        },
+        {
+            "id": 759,
+            "title": "Nine Lives of Tomas Katz, The",
+            "body": "Incomplete atypical femoral fracture, unspecified leg, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 760,
+            "title": "Wild Bunch, The",
+            "body": "Antepartum hemorrhage with disseminated intravascular coagulation, second trimester"
+        },
+        {
+            "id": 761,
+            "title": "Son of Babylon (Syn Babilonu)",
+            "body": "Cardiac arrest following complete or unspecified spontaneous abortion"
+        },
+        {
+            "id": 762,
+            "title": "Return of the Living Dead 3",
+            "body": "Abscess of bursa, wrist"
+        },
+        {
+            "id": 763,
+            "title": "Cold Weather",
+            "body": "Ectopic ACTH syndrome"
+        },
+        {
+            "id": 764,
+            "title": "Mike Birbiglia: My Girlfriend's Boyfriend",
+            "body": "Pedestrian on foot injured in collision with car, pick-up truck or van, unspecified whether traffic or nontraffic accident, initial encounter"
+        },
+        {
+            "id": 765,
+            "title": "Allnighter, The",
+            "body": "Unspecified fracture of fifth lumbar vertebra"
+        },
+        {
+            "id": 766,
+            "title": "Hang 'Em High",
+            "body": "Subluxation complex (vertebral) of upper extremity"
+        },
+        {
+            "id": 767,
+            "title": "Gracie's Choice",
+            "body": "Displaced longitudinal fracture of unspecified patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 768,
+            "title": "Me and Earl and the Dying Girl",
+            "body": "Unspecified fracture of right forearm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+        },
+        {
+            "id": 769,
+            "title": "High Plains Drifter",
+            "body": "Traumatic hemorrhage of right cerebrum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+        },
+        {
+            "id": 770,
+            "title": "Humoresque",
+            "body": "Nondisplaced supracondylar fracture with intracondylar extension of lower end of right femur, subsequent encounter for open fracture type I or II with delayed healing"
+        },
+        {
+            "id": 771,
+            "title": "Bully",
+            "body": "Chilblains, subsequent encounter"
+        },
+        {
+            "id": 772,
+            "title": "Blind Menace, The (Shiranui kengyô)",
+            "body": "Opioid use, unspecified, uncomplicated"
+        },
+        {
+            "id": 773,
+            "title": "Bag of Hammers, A",
+            "body": "Traumatic hemorrhage of right cerebrum with loss of consciousness of unspecified duration, subsequent encounter"
+        },
+        {
+            "id": 774,
+            "title": "Dangerous Lives of Altar Boys, The",
+            "body": "Postprocedural membranous urethral stricture"
+        },
+        {
+            "id": 775,
+            "title": "Simpatico",
+            "body": "Laceration of other muscle(s) and tendon(s) at lower leg level, left leg"
+        },
+        {
+            "id": 776,
+            "title": "We Are the Best! (Vi är bäst!)",
+            "body": "Short stature due to endocrine disorder"
+        },
+        {
+            "id": 777,
+            "title": "Ghosts of the Abyss",
+            "body": "Complete lesion at C4 level of cervical spinal cord, sequela"
+        },
+        {
+            "id": 778,
+            "title": "Company of Heroes",
+            "body": "Laceration of fallopian tube, unilateral, sequela"
+        },
+        {
+            "id": 779,
+            "title": "Down Periscope",
+            "body": "Intermittent hydrarthrosis, knee"
+        },
+        {
+            "id": 780,
+            "title": "Federal Hill",
+            "body": "Corrosion of unspecified degree of left wrist, initial encounter"
+        },
+        {
+            "id": 781,
+            "title": "Le Week-End",
+            "body": "Crepitant synovitis (acute) (chronic), right hand"
+        },
+        {
+            "id": 782,
+            "title": "Damien: Omen II",
+            "body": "Nondisplaced comminuted fracture of shaft of unspecified femur, sequela"
+        },
+        {
+            "id": 783,
+            "title": "Berkeley in the '60s",
+            "body": "Legal intervention involving bayonet, bystander injured, initial encounter"
+        },
+        {
+            "id": 784,
+            "title": "Number Two (Numéro deux)",
+            "body": "Displaced fracture of distal phalanx of right index finger, sequela"
+        },
+        {
+            "id": 785,
+            "title": "Million Dollar Mystery",
+            "body": "Strain of long flexor muscle, fascia and tendon of right thumb at wrist and hand level, subsequent encounter"
+        },
+        {
+            "id": 786,
+            "title": "Scooby-Doo 2: Monsters Unleashed",
+            "body": "Strain of unspecified muscle(s) and tendon(s) at lower leg level, unspecified leg, sequela"
+        },
+        {
+            "id": 787,
+            "title": "Decoys",
+            "body": "Adverse effect of antithrombotic drugs, subsequent encounter"
+        },
+        {
+            "id": 788,
+            "title": "Amityville Horror, The",
+            "body": "Partial traumatic amputation at unspecified shoulder joint, sequela"
+        },
+        {
+            "id": 789,
+            "title": "They Were Expendable",
+            "body": "Displaced fracture of pisiform, left wrist, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 790,
+            "title": "American Psycho",
+            "body": "Poisoning by antiviral drugs, undetermined, sequela"
+        },
+        {
+            "id": 791,
+            "title": "Best Years of Our Lives, The",
+            "body": "Personal history of adult neglect"
+        },
+        {
+            "id": 792,
+            "title": "Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko)",
+            "body": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, other extremity"
+        },
+        {
+            "id": 793,
+            "title": "Grill Point (Halbe Treppe)",
+            "body": "Nondisplaced fracture of left tibial tuberosity"
+        },
+        {
+            "id": 794,
+            "title": "Buffalo Soldiers",
+            "body": "Open bite, left knee"
+        },
+        {
+            "id": 795,
+            "title": "Pennies from Heaven",
+            "body": "Puncture wound with foreign body, left foot"
+        },
+        {
+            "id": 796,
+            "title": "Lucky Star",
+            "body": "Nondisplaced trimalleolar fracture of left lower leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+        },
+        {
+            "id": 797,
+            "title": "Speed & Angels",
+            "body": "Pressure ulcer of other site, stage 2"
+        },
+        {
+            "id": 798,
+            "title": "Going in Style",
+            "body": "Poisoning by predominantly beta-adrenoreceptor agonists, assault"
+        },
+        {
+            "id": 799,
+            "title": "Mona Lisa",
+            "body": "Puncture wound with foreign body, right foot, subsequent encounter"
+        },
+        {
+            "id": 800,
+            "title": "Crazy Stone (Fengkuang de shitou)",
+            "body": "Legal intervention involving injury by rubber bullet"
+        },
+        {
+            "id": 801,
+            "title": "Devil Girl From Mars",
+            "body": "Unspecified fracture of right calcaneus, initial encounter for open fracture"
+        },
+        {
+            "id": 802,
+            "title": "Impostors, The",
+            "body": "Unspecified inflammatory spondylopathy, cervicothoracic region"
+        },
+        {
+            "id": 803,
+            "title": "Final Cut",
+            "body": "Laceration without foreign body of left back wall of thorax with penetration into thoracic cavity"
+        },
+        {
+            "id": 804,
+            "title": "Santa Claus: The Movie",
+            "body": "Unspecified nephritic syndrome with minor glomerular abnormality"
+        },
+        {
+            "id": 805,
+            "title": "Alien Outpost",
+            "body": "Laceration of splenic vein, sequela"
+        },
+        {
+            "id": 806,
+            "title": "Cabin Fever",
+            "body": "Displaced fracture of epiphysis (separation) (upper) of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+        },
+        {
+            "id": 807,
+            "title": "Full Tilt Boogie",
+            "body": "Other injury of muscle, fascia and tendon of triceps, right arm, initial encounter"
+        },
+        {
+            "id": 808,
+            "title": "China Blue",
+            "body": "Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness"
+        },
+        {
+            "id": 809,
+            "title": "Spies (Spione)",
+            "body": "Torus fracture of lower end of left ulna, initial encounter for closed fracture"
+        },
+        {
+            "id": 810,
+            "title": "Gate of Flesh (Nikutai no mon)",
+            "body": "Streptococcus B carrier state complicating pregnancy"
+        },
+        {
+            "id": 811,
+            "title": "Jason Becker: Not Dead Yet",
+            "body": "Passenger in heavy transport vehicle injured in collision with other nonmotor vehicle in traffic accident"
+        },
+        {
+            "id": 812,
+            "title": "Kickboxer 3: The Art of War (Kickboxer III: The Art of War)",
+            "body": "Person boarding or alighting a heavy transport vehicle injured in collision with heavy transport vehicle or bus while boarding or alighting, sequela"
+        },
+        {
+            "id": 813,
+            "title": "Concert for George, The",
+            "body": "Nondisplaced unspecified condyle fracture of lower end of left femur, subsequent encounter for open fracture type I or II with malunion"
+        },
+        {
+            "id": 814,
+            "title": "Temp, The",
+            "body": "Chronic postrheumatic arthropathy [Jaccoud], left knee"
+        },
+        {
+            "id": 815,
+            "title": "Fall of the House of Usher, The (chute de la maison Usher, La)",
+            "body": "Nondisplaced osteochondral fracture of unspecified patella, sequela"
+        },
+        {
+            "id": 816,
+            "title": "Quid Pro Quo",
+            "body": "Contusion of left ring finger with damage to nail, sequela"
+        },
+        {
+            "id": 817,
+            "title": "Three Strangers",
+            "body": "Cognitive deficits following unspecified cerebrovascular disease"
+        },
+        {
+            "id": 818,
+            "title": "Jailhouse Rock",
+            "body": "Torus fracture of upper end of left ulna"
+        },
+        {
+            "id": 819,
+            "title": "Traffic",
+            "body": "Displaced fracture of lower epiphysis (separation) of left femur, subsequent encounter for open fracture type I or II with routine healing"
+        },
+        {
+            "id": 820,
+            "title": "Gardens of Stone",
+            "body": "Toxic effect of methanol, undetermined, subsequent encounter"
+        },
+        {
+            "id": 821,
+            "title": "Sweet November",
+            "body": "Localized anterior staphyloma, bilateral"
+        },
+        {
+            "id": 822,
+            "title": "No Name on the Bullet",
+            "body": "Unspecified fracture of right ischium"
+        },
+        {
+            "id": 823,
+            "title": "Schizopolis",
+            "body": "Puncture wound without foreign body of right middle finger with damage to nail, sequela"
+        },
+        {
+            "id": 824,
+            "title": "Fuse (Gori vatra)",
+            "body": "Other injury of extensor or abductor muscles, fascia and tendons of left thumb at forearm level, initial encounter"
+        },
+        {
+            "id": 825,
+            "title": "When Animals Dream (Når dyrene drømmer)",
+            "body": "Puncture wound without foreign body of left index finger with damage to nail, initial encounter"
+        },
+        {
+            "id": 826,
+            "title": "Puss in Boots (Nagagutsu o haita neko)",
+            "body": "Corrosion of third degree of head, face, and neck, unspecified site, initial encounter"
+        },
+        {
+            "id": 827,
+            "title": "Not Another Not Another Movie",
+            "body": "Dislocation of sacroiliac and sacrococcygeal joint, sequela"
+        },
+        {
+            "id": 828,
+            "title": "Mr. Nice Guy (Yat goh ho yan)",
+            "body": "Glaucoma secondary to eye inflammation, bilateral, moderate stage"
+        },
+        {
+            "id": 829,
+            "title": "Submarino",
+            "body": "Cracked nipple associated with pregnancy"
+        },
+        {
+            "id": 830,
+            "title": "Man Vanishes, A (Ningen Johatsu)",
+            "body": "Open bite of right upper arm"
+        },
+        {
+            "id": 831,
+            "title": "Alois Nebel",
+            "body": "Lateral subluxation of left ulnohumeral joint, sequela"
+        },
+        {
+            "id": 832,
+            "title": "Julia",
+            "body": "Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye"
+        },
+        {
+            "id": 833,
+            "title": "Train",
+            "body": "Postprocedural hematoma and seroma of an endocrine system organ or structure"
+        },
+        {
+            "id": 834,
+            "title": "Apartment 4E ",
+            "body": "Nondisplaced oblique fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+        },
+        {
+            "id": 835,
+            "title": "Heat",
+            "body": "Other superficial bite of ankle, right ankle"
+        },
+        {
+            "id": 836,
+            "title": "Satan Bug, The",
+            "body": "Passenger of special industrial vehicle injured in nontraffic accident"
+        },
+        {
+            "id": 837,
+            "title": "Jungle Fighters",
+            "body": "Other fracture of shaft of right ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+        },
+        {
+            "id": 838,
+            "title": "Back to School with Franklin",
+            "body": "Puncture wound with foreign body of unspecified upper arm, initial encounter"
+        },
+        {
+            "id": 839,
+            "title": "Bombón: El Perro (El perro)",
+            "body": "Other injury due to other accident to water-skis"
+        },
+        {
+            "id": 840,
+            "title": "Love and Honor",
+            "body": "Other injury of extensor muscle, fascia and tendon of right index finger at wrist and hand level"
+        },
+        {
+            "id": 841,
+            "title": "Before the Devil Knows You're Dead",
+            "body": "Unspecified occupant of bus injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter"
+        },
+        {
+            "id": 842,
+            "title": "Answer Man, The (a.k.a. Arlen Faber)",
+            "body": "Laceration without foreign body of unspecified front wall of thorax without penetration into thoracic cavity"
+        },
+        {
+            "id": 843,
+            "title": "Not Easily Broken",
+            "body": "Recurrent dislocation, unspecified knee"
+        },
+        {
+            "id": 844,
+            "title": "Castle of Blood",
+            "body": "Toxic effect of other ingested (parts of) plant(s), undetermined, sequela"
+        },
+        {
+            "id": 845,
+            "title": "Average Italian",
+            "body": "Proteinuria, unspecified"
+        },
+        {
+            "id": 846,
+            "title": "Grease",
+            "body": "Unspecified fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with malunion"
+        },
+        {
+            "id": 847,
+            "title": "Dear Wendy",
+            "body": "Benign neoplasm of thymus"
+        },
+        {
+            "id": 848,
+            "title": "Forbidden Fruit (Kielletty hedelmä)",
+            "body": "Other cardiomyopathies"
+        },
+        {
+            "id": 849,
+            "title": "Mimino",
+            "body": "Unspecified sprain of left lesser toe(s), subsequent encounter"
+        },
+        {
+            "id": 850,
+            "title": "Big Hit, The",
+            "body": "Capsular glaucoma with pseudoexfoliation of lens, unspecified eye, moderate stage"
+        },
+        {
+            "id": 851,
+            "title": "Two Mrs. Carrolls, The",
+            "body": "Injury of digital nerve of left index finger, sequela"
+        },
+        {
+            "id": 852,
+            "title": "Machete Maidens Unleashed!",
+            "body": "Dislocation of other internal joint prosthesis, sequela"
+        },
+        {
+            "id": 853,
+            "title": "Sweet Dreams",
+            "body": "Irritant contact dermatitis due to detergents"
+        },
+        {
+            "id": 854,
+            "title": "Fat Albert",
+            "body": "Displaced fracture of posterior wall of left acetabulum"
+        },
+        {
+            "id": 855,
+            "title": "Two for the Seesaw",
+            "body": "Salter-Harris Type I physeal fracture of right metatarsal"
+        },
+        {
+            "id": 856,
+            "title": "Berberian Sound Studio",
+            "body": "Acute embolism and thrombosis of deep veins of unspecified upper extremity"
+        },
+        {
+            "id": 857,
+            "title": "2 + 2 (Dos más dos)",
+            "body": "Toxic effect of formaldehyde, assault, sequela"
+        },
+        {
+            "id": 858,
+            "title": "Zincirbozan",
+            "body": "Underdosing of unspecified nonopioid analgesic, antipyretic and antirheumatic, sequela"
+        },
+        {
+            "id": 859,
+            "title": "Beyond a Reasonable Doubt",
+            "body": "Car driver injured in collision with heavy transport vehicle or bus in traffic accident"
+        },
+        {
+            "id": 860,
+            "title": "Halloween: Resurrection (Halloween 8)",
+            "body": "Contusion of eyeball and orbital tissues, left eye, subsequent encounter"
+        },
+        {
+            "id": 861,
+            "title": "Nancy Goes to Rio",
+            "body": "Iliac crest spur"
+        },
+        {
+            "id": 862,
+            "title": "Comedian",
+            "body": "Weeks of gestation of pregnancy, weeks 30-39"
+        },
+        {
+            "id": 863,
+            "title": "Life and Adventures of Santa Claus, The",
+            "body": "Strain of flexor muscle, fascia and tendon of left little finger at forearm level, subsequent encounter"
+        },
+        {
+            "id": 864,
+            "title": "Flashbacks of a Fool",
+            "body": "Sprain of lateral collateral ligament of unspecified knee, sequela"
+        },
+        {
+            "id": 865,
+            "title": "Innocent, The (Innocente, L')",
+            "body": "Extremely low birth weight newborn, less than 500 grams"
+        },
+        {
+            "id": 866,
+            "title": "Spy Who Loved Me, The",
+            "body": "Laceration of blood vessel of left little finger"
+        },
+        {
+            "id": 867,
+            "title": "Song to Remember, A",
+            "body": "Torus fracture of lower end of right femur, subsequent encounter for fracture with routine healing"
+        },
+        {
+            "id": 868,
+            "title": "Boca",
+            "body": "Radial collateral ligament sprain of unspecified elbow"
+        },
+        {
+            "id": 869,
+            "title": "Finances of the Grand Duke, The (Die Finanzen des Großherzogs)",
+            "body": "Open bite, right hip, subsequent encounter"
+        },
+        {
+            "id": 870,
+            "title": "Man of Her Dreams (a.k.a. The Fiancé)",
+            "body": "Chagas' disease with nervous system involvement, unspecified"
+        },
+        {
+            "id": 871,
+            "title": "Back to School",
+            "body": "Major laceration of vertebral artery"
+        },
+        {
+            "id": 872,
+            "title": "Colombiana",
+            "body": "Caisson disease [decompression sickness], sequela"
+        },
+        {
+            "id": 873,
+            "title": "The Living Magoroku",
+            "body": "Dental caries on pit and fissure surface penetrating into dentin"
+        },
+        {
+            "id": 874,
+            "title": "Journey to Saturn (Rejsen til Saturn)",
+            "body": "Other displaced fracture of base of first metacarpal bone, right hand, initial encounter for closed fracture"
+        },
+        {
+            "id": 875,
+            "title": "Slumber Party Massacre II",
+            "body": "Poisoning by antiparkinsonism drugs and other central muscle-tone depressants, accidental (unintentional), initial encounter"
+        },
+        {
+            "id": 876,
+            "title": "Graduate, The",
+            "body": "Contusion of hip"
+        },
+        {
+            "id": 877,
+            "title": "Blackbeard, the Pirate",
+            "body": "Rheumatoid arthritis of left hip with involvement of other organs and systems"
+        },
+        {
+            "id": 878,
+            "title": "Lady for a Day",
+            "body": "Military operations involving unspecified explosion and fragments, civilian, initial encounter"
+        },
+        {
+            "id": 879,
+            "title": "Dream With the Fishes",
+            "body": "Underdosing of antihyperlipidemic and antiarteriosclerotic drugs, sequela"
+        },
+        {
+            "id": 880,
+            "title": "Made",
+            "body": "Corrosion of first degree of unspecified hand, unspecified site"
+        },
+        {
+            "id": 881,
+            "title": "Flu",
+            "body": "Foreign body granuloma of soft tissue, not elsewhere classified, unspecified hand"
+        },
+        {
+            "id": 882,
+            "title": "Common Thread, A (a.k.a. Sequins) (Brodeuses)",
+            "body": "Nondisplaced unspecified fracture of unspecified great toe, initial encounter for open fracture"
+        },
+        {
+            "id": 883,
+            "title": "Much Ado About Something",
+            "body": "Other specified bacterial agents as the cause of diseases classified elsewhere"
+        },
+        {
+            "id": 884,
+            "title": "Adventures of Robin Hood, The",
+            "body": "Greenstick fracture of shaft of radius, left arm"
+        },
+        {
+            "id": 885,
+            "title": "Crazed Fruit (Kurutta kajitsu)",
+            "body": "Asphyxiation due to being trapped in a (discarded) refrigerator, undetermined, sequela"
+        },
+        {
+            "id": 886,
+            "title": "Unknown Soldier, The (Tuntematon sotilas)",
+            "body": "Burn of third degree of multiple sites of left wrist and hand, sequela"
+        },
+        {
+            "id": 887,
+            "title": "Perfect Score, The",
+            "body": "Accidental discharge of machine gun, subsequent encounter"
+        },
+        {
+            "id": 888,
+            "title": "Harsh Times",
+            "body": "Other specified dorsopathies, sacral and sacrococcygeal region"
+        },
+        {
+            "id": 889,
+            "title": "Murder by Death",
+            "body": "Nondisplaced Rolando's fracture, right hand, sequela"
+        },
+        {
+            "id": 890,
+            "title": "Into Great Silence (Die große Stille)",
+            "body": "Passenger on bus injured in collision with other motor vehicles in traffic accident, subsequent encounter"
+        },
+        {
+            "id": 891,
+            "title": "Mike's Murder",
+            "body": "Spinal instabilities"
+        },
+        {
+            "id": 892,
+            "title": "That Hamilton Woman",
+            "body": "Poisoning by other antipsychotics and neuroleptics, intentional self-harm"
+        },
+        {
+            "id": 893,
+            "title": "Fudoh: The New Generation (Gokudô sengokushi: Fudô)",
+            "body": "Military operations involving destruction of aircraft due to enemy fire or explosives, civilian, subsequent encounter"
+        },
+        {
+            "id": 894,
+            "title": "Zatoichi and the Chess Expert (Zatôichi Jigoku tabi) (Zatôichi 12)",
+            "body": "Nondisplaced fracture of medial malleolus of right tibia, subsequent encounter for open fracture type I or II with malunion"
+        },
+        {
+            "id": 895,
+            "title": "Women Without Men (Zanan-e bedun-e mardan)",
+            "body": "Unspecified disorder of vestibular function, left ear"
+        },
+        {
+            "id": 896,
+            "title": "As Good as It Gets",
+            "body": "Fracture of ramus of mandible, unspecified side"
+        },
+        {
+            "id": 897,
+            "title": "Black Book (Zwartboek)",
+            "body": "Hypersecretion glaucoma, bilateral"
+        },
+        {
+            "id": 898,
+            "title": "Rally 'Round the Flag, Boys!",
+            "body": "Fistula, knee"
+        },
+        {
+            "id": 899,
+            "title": "Zu: Warriors from the Magic Mountain (Xin shu shan jian ke)",
+            "body": "Legal intervention involving unspecified blunt objects, law enforcement official injured, sequela"
+        },
+        {
+            "id": 900,
+            "title": "Ten North Frederick",
+            "body": "Patellofemoral disorders, unspecified knee"
+        },
+        {
+            "id": 901,
+            "title": "Day Is Done",
+            "body": "Myositis ossificans progressiva"
+        },
+        {
+            "id": 902,
+            "title": "Rahtree: Flower of the Night (Buppha Rahtree)",
+            "body": "Burn of third degree of unspecified hand, unspecified site, initial encounter"
+        },
+        {
+            "id": 903,
+            "title": "Tightrope",
+            "body": "Unspecified foreign body in bronchus causing asphyxiation, initial encounter"
+        },
+        {
+            "id": 904,
+            "title": "Love Trap, The",
+            "body": "Late syphilis"
+        },
+        {
+            "id": 905,
+            "title": "Librarian: Quest for the Spear, The",
+            "body": "Unspecified enophthalmos, unspecified eye"
+        },
+        {
+            "id": 906,
+            "title": "Startup.com",
+            "body": "Displaced articular fracture of head of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+        },
+        {
+            "id": 907,
+            "title": "My Wife, A Body to Love",
+            "body": "Other osteonecrosis of right carpus"
+        },
+        {
+            "id": 908,
+            "title": "Wicked Blood",
+            "body": "Exposure to other natural radiation, subsequent encounter"
+        },
+        {
+            "id": 909,
+            "title": "Opposing Force",
+            "body": "Other fall on same level"
+        },
+        {
+            "id": 910,
+            "title": "The Incident",
+            "body": "Nondisplaced intertrochanteric fracture of unspecified femur, subsequent encounter for open fracture type I or II with nonunion"
+        },
+        {
+            "id": 911,
+            "title": "Arthur",
+            "body": "Salter-Harris Type II physeal fracture of lower end of left fibula"
+        },
+        {
+            "id": 912,
+            "title": "Saint (Sint)",
+            "body": "Antepartum hemorrhage, unspecified, unspecified trimester"
+        },
+        {
+            "id": 913,
+            "title": "One Percent, The",
+            "body": "Displaced fracture of greater trochanter of unspecified femur, initial encounter for closed fracture"
+        },
+        {
+            "id": 914,
+            "title": "Soul Surfer",
+            "body": "Underdosing of pertussis vaccine, including combinations with a pertussis component, subsequent encounter"
+        },
+        {
+            "id": 915,
+            "title": "Bulldog Drummond Escapes",
+            "body": "Age-related osteoporosis with current pathological fracture, forearm"
+        },
+        {
+            "id": 916,
+            "title": "Silk Stockings",
+            "body": "Acute myeloid leukemia with 11q23-abnormality in relapse"
+        },
+        {
+            "id": 917,
+            "title": "Snowriders",
+            "body": "Adverse effect of other psychodysleptics [hallucinogens], initial encounter"
+        },
+        {
+            "id": 918,
+            "title": "Frequency",
+            "body": "Military operations involving chemical weapons and other forms of unconventional warfare, civilian, sequela"
+        },
+        {
+            "id": 919,
+            "title": "Hideaway",
+            "body": "Unspecified pneumoconiosis"
+        },
+        {
+            "id": 920,
+            "title": "Tango & Cash",
+            "body": "External constriction of lower back and pelvis, sequela"
+        },
+        {
+            "id": 921,
+            "title": "Witch Who Came from the Sea, The",
+            "body": "Other specified injury of left external jugular vein"
+        },
+        {
+            "id": 922,
+            "title": "Gauntlet, The",
+            "body": "Nondisplaced comminuted fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with delayed healing"
+        },
+        {
+            "id": 923,
+            "title": "Hedd Wyn",
+            "body": "Oculoglandular listeriosis"
+        },
+        {
+            "id": 924,
+            "title": "Dinner for Schmucks",
+            "body": "Displaced fracture of body of left talus, subsequent encounter for fracture with nonunion"
+        },
+        {
+            "id": 925,
+            "title": "Last Drop, The",
+            "body": "Effects of abnormal gravitation [G] forces, subsequent encounter"
+        },
+        {
+            "id": 926,
+            "title": "Conan the Barbarian",
+            "body": "Pathological fracture in other disease, right femur, sequela"
+        },
+        {
+            "id": 927,
+            "title": "Overboard",
+            "body": "Malignant neoplasm of cortex of left adrenal gland"
+        },
+        {
+            "id": 928,
+            "title": "Story of Maths, The",
+            "body": "Unspecified superficial injury of unspecified wrist"
+        },
+        {
+            "id": 929,
+            "title": "Rentun Ruusu",
+            "body": "Other traumatic nondisplaced spondylolisthesis of sixth cervical vertebra, sequela"
+        },
+        {
+            "id": 930,
+            "title": "Altiplano",
+            "body": "Unspecified complication of foreign body accidentally left in body following injection or immunization"
+        },
+        {
+            "id": 931,
+            "title": "DarkWolf",
+            "body": "Laceration without foreign body, left foot, sequela"
+        },
+        {
+            "id": 932,
+            "title": "Mayday at 40,000 Feet!",
+            "body": "Choledochal cyst"
+        },
+        {
+            "id": 933,
+            "title": "Master, The (Huang Fei Hong jiu er zhi long xing tian xia)",
+            "body": "Panniculitis affecting regions of neck and back, occipito-atlanto-axial region"
+        },
+        {
+            "id": 934,
+            "title": "The Land Before Time IX: Journey to the Big Water",
+            "body": "Other physeal fracture of lower end of right femur, subsequent encounter for fracture with delayed healing"
+        },
+        {
+            "id": 935,
+            "title": "Lords of Flatbush, The",
+            "body": "Nondisplaced fracture of right tibial spine, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+        },
+        {
+            "id": 936,
+            "title": "Manson",
+            "body": "Esophagitis"
+        },
+        {
+            "id": 937,
+            "title": "Colors of the Mountain, The (Los colores de la montaña)",
+            "body": "Person injured in collision between other specified motor vehicles (traffic), subsequent encounter"
+        },
+        {
+            "id": 938,
+            "title": "Joe Versus the Volcano",
+            "body": "Postprocedural septic shock, sequela"
+        },
+        {
+            "id": 939,
+            "title": "12 Angry Men",
+            "body": "Other forms of angina pectoris"
+        },
+        {
+            "id": 940,
+            "title": "Unstoppable",
+            "body": "Partial traumatic metacarpophalangeal amputation of other finger, sequela"
+        },
+        {
+            "id": 941,
+            "title": "Beginning of an Unknown Era (Nachalo nevedomogo veka)",
+            "body": "Burn of first degree of right ear [any part, except ear drum]"
+        },
+        {
+            "id": 942,
+            "title": "What If... (An...)",
+            "body": "Corrosion of unspecified degree of left upper arm, sequela"
+        },
+        {
+            "id": 943,
+            "title": "To Be Twenty",
+            "body": "Laceration of unspecified blood vessel at shoulder and upper arm level, left arm, initial encounter"
+        },
+        {
+            "id": 944,
+            "title": "Guide, The (O Xenagos)",
+            "body": "Laceration of other specified muscles, fascia and tendons at wrist and hand level, left hand, subsequent encounter"
+        },
+        {
+            "id": 945,
+            "title": "WUSA",
+            "body": "Preterm premature rupture of membranes, onset of labor more than 24 hours following rupture, third trimester"
+        },
+        {
+            "id": 946,
+            "title": "Maria Bamford: The Special Special Special!",
+            "body": "Other specified injury of extensor muscle, fascia and tendon of unspecified thumb at wrist and hand level, initial encounter"
+        },
+        {
+            "id": 947,
+            "title": "Strawberries in the Supermarket (Jagoda u supermarketu) ",
+            "body": "Displaced oblique fracture of shaft of right femur, subsequent encounter for open fracture type I or II with delayed healing"
+        },
+        {
+            "id": 948,
+            "title": "Silver Stallion (Silver Brumpy, The)",
+            "body": "Mixed hyperlipidemia"
+        },
+        {
+            "id": 949,
+            "title": "Vivien Leigh: Scarlett and Beyond",
+            "body": "Dislocation of T9/T10 thoracic vertebra"
+        },
+        {
+            "id": 950,
+            "title": "Lethal Weapon",
+            "body": "Dislocation of right acromioclavicular joint, 100%-200% displacement"
+        },
+        {
+            "id": 951,
+            "title": "Lifeforce",
+            "body": "Exposure to industrial wiring, appliances and electrical machinery, subsequent encounter"
+        },
+        {
+            "id": 952,
+            "title": "My Sweet Pepper Land",
+            "body": "Posterior subluxation of right ulnohumeral joint, initial encounter"
+        },
+        {
+            "id": 953,
+            "title": "Back to the Beach",
+            "body": "Ophthalmic devices associated with adverse incidents"
+        },
+        {
+            "id": 954,
+            "title": "Another Harvest Moon",
+            "body": "Poisoning by antimycobacterial drugs, assault, subsequent encounter"
+        },
+        {
+            "id": 955,
+            "title": "No Good Deed",
+            "body": "Osteopathy after poliomyelitis, other site"
+        },
+        {
+            "id": 956,
+            "title": "Business of Strangers, The",
+            "body": "Non-ABO incompatibility with delayed hemolytic transfusion reaction, sequela"
+        },
+        {
+            "id": 957,
+            "title": "Turin Horse, The (A Torinói ló)",
+            "body": "Osteonecrosis in diseases classified elsewhere, left upper arm"
+        },
+        {
+            "id": 958,
+            "title": "Ama lur (Tierra Madre)",
+            "body": "Injury of cervical sympathetic nerves, initial encounter"
+        },
+        {
+            "id": 959,
+            "title": "Morvern Callar",
+            "body": "Pedestrian on foot injured in collision with other nonmotor vehicle in traffic accident, subsequent encounter"
+        },
+        {
+            "id": 960,
+            "title": "South Park: Bigger, Longer and Uncut",
+            "body": "Corrosion of unspecified degree of right upper arm, subsequent encounter"
+        },
+        {
+            "id": 961,
+            "title": "My House in Umbria",
+            "body": "Nondisplaced fracture of neck of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+        },
+        {
+            "id": 962,
+            "title": "Alice Doesn't Live Here Anymore",
+            "body": "Pedestrian on roller-skates injured in collision with pedal cycle, unspecified whether traffic or nontraffic accident"
+        },
+        {
+            "id": 963,
+            "title": "I Hate Valentine's Day",
+            "body": "Unspecified car occupant injured in collision with railway train or railway vehicle in traffic accident, sequela"
+        },
+        {
+            "id": 964,
+            "title": "Kahlekuningas",
+            "body": "Driver injured in collision with other motor vehicles in nontraffic accident, subsequent encounter"
+        },
+        {
+            "id": 965,
+            "title": "Doctor Bull",
+            "body": "Blister (nonthermal) of ear"
+        },
+        {
+            "id": 966,
+            "title": "Vengeance: The Story of Tony Cimo",
+            "body": "Displacement of other internal orthopedic devices, implants and grafts"
+        },
+        {
+            "id": 967,
+            "title": "From Morn to Midnight (Von morgens bis Mitternacht)",
+            "body": "Other human herpesvirus encephalitis"
+        },
+        {
+            "id": 968,
+            "title": "Pilgrim, The",
+            "body": "Occupant of animal-drawn vehicle injured in collision with pedestrian or animal, sequela"
+        },
+        {
+            "id": 969,
+            "title": "October",
+            "body": "Post-traumatic osteoarthritis, hand"
+        },
+        {
+            "id": 970,
+            "title": "Young Victoria, The",
+            "body": "Acute infection following transfusion, infusion, or injection of blood and blood products, subsequent encounter"
+        },
+        {
+            "id": 971,
+            "title": "Chemical Brothers: Don't Think, The",
+            "body": "Other gliding-type pedestrian conveyance accident"
+        },
+        {
+            "id": 972,
+            "title": "Caine Mutiny, The",
+            "body": "Complications peculiar to reattachment and amputation"
+        },
+        {
+            "id": 973,
+            "title": "Haunted Castle",
+            "body": "Encounter for adjustment and management of cardiac pacemaker"
+        },
+        {
+            "id": 974,
+            "title": "MVP: Most Valuable Primate",
+            "body": "Contact with sharp glass, subsequent encounter"
+        },
+        {
+            "id": 975,
+            "title": "Something Wild",
+            "body": "Foster-Kennedy syndrome"
+        },
+        {
+            "id": 976,
+            "title": "Goodbye, Mr. Chips",
+            "body": "Dependence on wheelchair"
+        },
+        {
+            "id": 977,
+            "title": "Redirected",
+            "body": "Pulsatile tinnitus"
+        },
+        {
+            "id": 978,
+            "title": "Whirlygirl",
+            "body": "Anterior spinal artery compression syndromes, occipito-atlanto-axial region"
+        },
+        {
+            "id": 979,
+            "title": "The Moromete Family",
+            "body": "Drug-induced gout, unspecified hip"
+        },
+        {
+            "id": 980,
+            "title": "Bag of Bones",
+            "body": "Unspecified superficial injury of right eyelid and periocular area, sequela"
+        },
+        {
+            "id": 981,
+            "title": "Mrs. Parkington",
+            "body": "Encounter for dental examination and cleaning with abnormal findings"
+        },
+        {
+            "id": 982,
+            "title": "Gran Paradiso",
+            "body": "Poisoning by lysergide [LSD], intentional self-harm"
+        },
+        {
+            "id": 983,
+            "title": "Watercolors",
+            "body": "Displaced fracture of posterior wall of right acetabulum, initial encounter for open fracture"
+        },
+        {
+            "id": 984,
+            "title": "Cat Soup (Nekojiru-so)",
+            "body": "Injury of conjunctiva and corneal abrasion without foreign body, left eye, subsequent encounter"
+        },
+        {
+            "id": 985,
+            "title": "2:22",
+            "body": "Burn of third degree of left elbow, sequela"
+        },
+        {
+            "id": 986,
+            "title": "The Black Rose",
+            "body": "Pneumonia due to other staphylococcus"
+        },
+        {
+            "id": 987,
+            "title": "Science of Sleep, The (La science des rêves)",
+            "body": "Congenital absence of ovary"
+        },
+        {
+            "id": 988,
+            "title": "Keeper, The",
+            "body": "Unspecified injury of splenic vein"
+        },
+        {
+            "id": 989,
+            "title": "Hellraiser: Inferno",
+            "body": "Other disorders of patella"
+        },
+        {
+            "id": 990,
+            "title": "Cloudburst",
+            "body": "Laceration with foreign body, unspecified hip, subsequent encounter"
+        },
+        {
+            "id": 991,
+            "title": "Peyton Place",
+            "body": "Late lesions of pinta"
+        },
+        {
+            "id": 992,
+            "title": "Get Out Your Handkerchiefs (Préparez vos mouchoirs)",
+            "body": "Pressure ulcer of left elbow"
+        },
+        {
+            "id": 993,
+            "title": "Loving Father, A (Aime ton père)",
+            "body": "Unspecified disorder of synovium and tendon, left upper arm"
+        },
+        {
+            "id": 994,
+            "title": "Fred & Vinnie",
+            "body": "Nondisplaced supracondylar fracture without intracondylar extension of lower end of right femur, subsequent encounter for open fracture type I or II with delayed healing"
+        },
+        {
+            "id": 995,
+            "title": "JFK: The Smoking Gun",
+            "body": "Foreign body in cornea, unspecified eye, subsequent encounter"
+        },
+        {
+            "id": 996,
+            "title": "All That... for This?!",
+            "body": "Dislocation of T12/L1 thoracic vertebra, sequela"
+        },
+        {
+            "id": 997,
+            "title": "Kings & Queen (Rois et reine)",
+            "body": "Comminuted fracture of shaft of radius"
+        },
+        {
+            "id": 998,
+            "title": "Resurrecting the Champ",
+            "body": "Burn of first degree of unspecified toe(s) (nail), initial encounter"
+        },
+        {
+            "id": 999,
+            "title": "Fanny",
+            "body": "Localized traumatic opacities, bilateral"
+        },
+        {
+            "id": 1000,
+            "title": "Desert Blue",
+            "body": "Placentitis, second trimester, not applicable or unspecified"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
