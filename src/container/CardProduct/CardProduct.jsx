@@ -1,4 +1,6 @@
-import React, {Fragment} from "react";
+import React from "react";
+import { connect } from "react-redux";
+import { dispatch } from "rxjs/internal/observable/range";
 
 class CardProduct extends React.Component{
     state = {
@@ -29,6 +31,7 @@ class CardProduct extends React.Component{
         }
     }
     render(){
+        console.log(this.props);
         return(
             <div>
                 <p>{this.state.order}</p>
@@ -40,4 +43,11 @@ class CardProduct extends React.Component{
     }
 }
 
-export default CardProduct;
+const mapStateToProps = (state) => {
+    return {
+        order: state.totalOrder,
+    }
+}
+
+export default connect(mapStateToProps)(CardProduct);
+// export default connect(maps, dispatch)(CardProduct);

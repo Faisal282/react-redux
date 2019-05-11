@@ -2,6 +2,7 @@ import React, {Fragment} from "react"
 import "./BlogPost.css"
 import Post from "../../component/Post/Post";
 import axios from "axios";
+// import withoutProps from '@babel/runtime/helpers/esm/objectWithoutPropertiesLoose'
 
 class BlogPost extends React.Component{
     state = {
@@ -60,7 +61,7 @@ class BlogPost extends React.Component{
     handleRemove = (data) => {
         console.log(data);
         axios.delete(`http://localhost:3004/posts/${data}`).then((res) => {
-            (res.status == 200) ? alert("data berhasil dihapus") : alert('data gagal dihapus')
+            (res.status === 200) ? alert("data berhasil dihapus") : alert('data gagal dihapus')
             this.getPostAPI()
         });
     }
@@ -98,6 +99,10 @@ class BlogPost extends React.Component{
         } else {
             this.postDataToApi();
         }
+    }
+
+    handleDetail = (id) => {
+        this.props.history.push(`detail-post/${id}`);
     }
 
     componentDidMount(){
@@ -145,7 +150,7 @@ class BlogPost extends React.Component{
             </div>
             {
                 this.state.post.map(post => {
-                    return <Post key={post.id} data={post} title={post.title} desc={post.body} remove={this.handleRemove} update={this.handleUpdate}></Post>
+                    return <Post key={post.id} data={post} title={post.title} desc={post.body} remove={this.handleRemove} update={this.handleUpdate} goDetail={this.handleDetail}></Post>
                 })
             }
             <hr/>

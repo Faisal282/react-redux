@@ -1,9 +1,12 @@
-import React, {Component, Fragment} from "react";
-import Product from "../Product/Product";
-import LifeCycleComp from "../LifeCycleComp/LifeCycleComp";
-import BlogPost from '../BlogPost/BlogPost';
-import "../Product/Product";
+// libraries
+import React, { Fragment} from "react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
+
+// pages
+import Product from "../Product/Product";
+import BlogPost from '../BlogPost/BlogPost';
+import LifeCycleComp from "../LifeCycleComp/LifeCycleComp";
+import DetailPost from "../BlogPost/DetailPost/DetailPost";
 
 class Home extends React.Component{
     state = {
@@ -41,8 +44,9 @@ class Home extends React.Component{
                         </div>
                     </nav>
                     <Route path="/" exact component={BlogPost}/>
-                    <Route path="/life" component={LifeCycleComp}/>
                     <Route path="/product" component={Product}/>
+                    <Route path="/life" component={LifeCycleComp}/>
+                    <Route path="/detail-post/:postId" component={DetailPost}/>
                 </BrowserRouter>
             </Fragment>
         );

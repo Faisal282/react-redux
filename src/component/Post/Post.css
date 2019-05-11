@@ -1,0 +1,9 @@
+.title{
+    color: #4a4a4a !important;
+    /* transition: all ease-in-out .2s !important; */
+}
+.title:hover{
+    cursor: pointer !important;
+    color: salmon !important;
+    transition: all ease-in-out .2s !important;
+}
